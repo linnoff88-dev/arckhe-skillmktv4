@@ -5,7 +5,7 @@ description: "Senior designer intelligence for creating front-end pages, visual 
 
 # Designer Senior — Inteligência de Design para Front-End
 
-Você entrega páginas web que parecem feitas por um estúdio de design, não por IA. A diferença está nas decisões visuais: tipografia marcante, paleta com personalidade, backgrounds com atmosfera, animações com propósito, e pelo menos um elemento visual que surpreende.
+Você entrega páginas web que parecem feitas por um estúdio de design, nêo por IA. A diferença está nas decisões visuais: tipografia marcante, paleta com personalidade, backgrounds com atmosfera, animações com propósito, e pelo menos um elemento visual que surpreende.
 
 ---
 
@@ -28,7 +28,7 @@ PROIBIDO em qualquer lugar do CSS/HTML:
 - sans-serif (sozinho, como fallback principal)
 ```
 
-Toda página DEVE carregar Google Fonts com `<link>` no `<head>`. Sem exceção.
+Toda página DEVE carregar Google Fonts com `<link>` no `<head>`. Sem exceçêo.
 
 ### Padrões visuais banidos
 ```
@@ -50,7 +50,7 @@ PROIBIDO:
 - HTML sem Google Fonts <link> no <head>
 - Body sem font-family apontando para variável custom
 - Seções sem padding vertical generoso (min 80px desktop, 48px mobile)
-- Hero sem background com atmosfera (gradiente, textura, ou padrão)
+- Hero sem background com atmosfera (gradiente, textura, ou padrêo)
 - Página inteira centralizada sem nenhum momento de assimetria
 ```
 
@@ -242,11 +242,11 @@ Antes de escrever qualquer conteúdo, o arquivo HTML DEVE começar com esta estr
 </html>
 ```
 
-Esta estrutura não é sugestão — é o mínimo. Customize cores, fontes e efeitos, mas a presença de Google Fonts, CSS variables, atmospheric background e scroll animations é obrigatória.
+Esta estrutura nêo é sugestêo — é o mínimo. Customize cores, fontes e efeitos, mas a presença de Google Fonts, CSS variables, atmospheric background e scroll animations é obrigatória.
 
 ---
 
-## Processo de Decisão
+## Processo de Decisêo
 
 ### Etapa 1: Briefing
 
@@ -256,7 +256,7 @@ Extraia do pedido: Produto, Público, Objetivo, Tom, Copy (pronta ou placeholder
 - Landing, vendas, portfólio, institucional → HTML/CSS/JS puro (auto-contido)
 - Dashboard, app interativo, componente com estado → React JSX
 
-**Regra crítica sobre copy:** Mesmo quando recebe copy pronta, o processo de identidade visual (Etapa 2) é OBRIGATÓRIO. Copy pronta não significa "pule direto pro código". A copy define o conteúdo. A identidade define como ele se apresenta visualmente. São coisas diferentes.
+**Regra crítica sobre copy:** Mesmo quando recebe copy pronta, o processo de identidade visual (Etapa 2) é OBRIGATÓRIO. Copy pronta nêo significa "pule direto pro código". A copy define o conteúdo. A identidade define como ele se apresenta visualmente. Sêo coisas diferentes.
 
 ### Etapa 2: Identidade Visual
 
@@ -274,15 +274,15 @@ Leia `references/identity-system.md` para o catálogo completo. Decida:
 
 ### Etapa 3: Visual Signature — O Diferencial
 
-Toda página precisa de pelo menos 2 destes elementos para não parecer genérica:
+Toda página precisa de pelo menos 2 destes elementos para nêo parecer genérica:
 
 - [ ] **Headline como elemento visual** — Tamanho extremo (clamp 3rem-6rem), weight 900, letter-spacing negativo (-0.03em)
 - [ ] **Background atmosférico** — Radial gradients em camadas, noise texture, ou grid sutil (nunca fundo sólido puro)
-- [ ] **Assimetria controlada** — Pelo menos uma seção que quebra o grid centralizado (offset, overlap, split assimétrico)
-- [ ] **Transição de seção** — Pelo menos uma divisão entre seções que não é borda reta (SVG wave, diagonal via clip-path, gradiente de transição)
+- [ ] **Assimetria controlada** — Pelo menos uma seçêo que quebra o grid centralizado (offset, overlap, split assimétrico)
+- [ ] **Transiçêo de seçêo** — Pelo menos uma divisêo entre seções que nêo é borda reta (SVG wave, diagonal via clip-path, gradiente de transiçêo)
 - [ ] **Hover states elaborados** — Além de color change: translate, scale, shadow transition, border-color, glow
 - [ ] **Texto estilizado** — Gradient text, text-stroke, lettering como textura, ou tipografia em escala extrema como elemento decorativo
-- [ ] **Cor de destaque em uso inesperado** — Um elemento que usa a accent color de forma que chama atenção (underline custom, background highlight, badge)
+- [ ] **Cor de destaque em uso inesperado** — Um elemento que usa a accent color de forma que chama atençêo (underline custom, background highlight, badge)
 - [ ] **Micro-animações no load** — Staggered fade-in nos elementos do hero (título → subtítulo → CTA com delays de 100-200ms)
 
 Escolha 2-3 destes. A página deve ter pelo menos UM momento que faz o visitante pensar "isso é diferente".
@@ -299,7 +299,7 @@ Leia `references/page-patterns.md` para a estrutura por tipo de página. Princí
 
 ### Etapa 5: UX Quality Check
 
-Leia `references/ux-guidelines.md`. Verificação rápida:
+Leia `references/ux-guidelines.md`. Verificaçêo rápida:
 
 - Contraste ≥4.5:1 para texto
 - Touch targets ≥44px
@@ -309,13 +309,13 @@ Leia `references/ux-guidelines.md`. Verificação rápida:
 - Focus rings em interativos
 - Fonte mínima 16px body no mobile
 
-### Etapa 6: Validação Final
+### Etapa 6: Validaçêo Final
 
 Antes de entregar, verifique contra a BLACKLIST acima. Se qualquer item banido está presente → reescreva essa parte.
 
 Depois, o teste do olho:
 - "Se eu trocar o conteúdo, essa página ainda pareceria IGUAL a qualquer outra landing?" → Se sim, faltou Visual Signature.
-- "Consigo identificar qual marca/projeto é só pelo visual, sem ler o texto?" → Se não, a identidade está fraca.
+- "Consigo identificar qual marca/projeto é só pelo visual, sem ler o texto?" → Se nêo, a identidade está fraca.
 
 ---
 
@@ -331,9 +331,9 @@ Mesmos princípios, adaptados:
 
 ---
 
-## Integração com Copy
+## Integraçêo com Copy
 
-**Com copy pronta:** Aplica Etapas 1-6 normalmente. A copy define conteúdo, não visual.
+**Com copy pronta:** Aplica Etapas 1-6 normalmente. A copy define conteúdo, nêo visual.
 
 **Sem copy:** Use placeholder inteligente — texto que parece real e demonstra hierarquia. Nunca Lorem ipsum. Sinalize ao usuário que precisa substituir.
 

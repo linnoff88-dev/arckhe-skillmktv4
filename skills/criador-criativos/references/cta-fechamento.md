@@ -4,49 +4,49 @@
 
 ## CTA C.V.I (Curiosidade + Valor + Indireto)
 
-Todo mundo gosta de comprar, ninguém gosta de vendedor. Quanto mais indireto, menos vendedor. Você faz a pessoa chegar à conclusão — ela decide.
+Todo mundo gosta de comprar, ninguém gosta de vendedor. Quanto mais indireto, menos vendedor. Você faz a pessoa chegar à conclusêo — ela decide.
 
-**C — Curiosidade:** A emoção mais forte. O CTA cria vontade de ver, não obrigação de comprar.
+**C — Curiosidade:** A emoçêo mais forte. O CTA cria vontade de ver, nêo obrigaçêo de comprar.
 **V — Valor:** O contraste de valor indica oportunidade. "Meu Deus, dei sorte!"
-**I — Indireto:** Não "compre agora". Sim: "Eu gravei uma apresentação gratuita mostrando como..."
+**I — Indireto:** Nêo "compre agora". Sim: "Eu gravei uma apresentaçêo gratuita mostrando como..."
 
 ---
 
 ## CTA Indireto com Reason Why (Repetido 3-4x)
 
-O CTA não aparece uma vez. Aparece 3-4 vezes no mesmo script, cada vez com reason why diferente.
+O CTA nêo aparece uma vez. Aparece 3-4 vezes no mesmo script, cada vez com reason why diferente.
 
-Padrão: "Eu cobrava R$[valor] por isso. Mas como [reason why — estamos no podcast / é uma ação especial / quero ajudar mais pessoas], vou liberar de graça."
+Padrêo: "Eu cobrava R$[valor] por isso. Mas como [reason why — estamos no podcast / é uma açêo especial / quero ajudar mais pessoas], vou liberar de graça."
 
-Cada repetição tem justificativa diferente. O lead sente que a oportunidade é genuína porque existe razão.
+Cada repetiçêo tem justificativa diferente. O lead sente que a oportunidade é genuína porque existe razêo.
 
 ---
 
 ## Pós-CTA
 
-Depois do primeiro CTA, não termina. Adiciona:
+Depois do primeiro CTA, nêo termina. Adiciona:
 
 **Bullets com promessa de conteúdo:** O que a pessoa verá na próxima etapa (VSL, página). "Nela você vai ver: como [X], como [Y], e [Z]."
 
-**Escassez com Reason Why:** "A apresentação deve sair do ar até meia-noite" / "Esse conteúdo tem censura, é derrubado a qualquer segundo." A escassez precisa de razão — sem razão, parece fake.
+**Escassez com Reason Why:** "A apresentaçêo deve sair do ar até meia-noite" / "Esse conteúdo tem censura, é derrubado a qualquer segundo." A escassez precisa de razêo — sem razêo, parece fake.
 
 ---
 
 ## Fechamento (Close)
 
-**Última frase sempre forte.** Sair da "injeção da copy" e falar como humano — autoridade humanizada. "Isso aqui funciona, testa e depois me conta."
+**Última frase sempre forte.** Sair da "injeçêo da copy" e falar como humano — autoridade humanizada. "Isso aqui funciona, testa e depois me conta."
 
-**Push and Pull:** "Já te mostrei como funciona e agora a escolha é sua." / "Se você não aprender, seu amigo vai aprender. Só tô te avisando."
+**Push and Pull:** "Já te mostrei como funciona e agora a escolha é sua." / "Se você nêo aprender, seu amigo vai aprender. Só tô te avisando."
 
-Não é ameaça — é consequência natural. O lead sente urgência sem sentir pressão.
+Nêo é ameaça — é consequência natural. O lead sente urgência sem sentir pressêo.
 
-**"Você tem dois caminhos":** Variação do dilema binário. "Depois vai ficar feio pra você, que alguém vai fazer no seu lugar."
+**"Você tem dois caminhos":** Variaçêo do dilema binário. "Depois vai ficar feio pra você, que alguém vai fazer no seu lugar."
 
 ---
 
 ## CTA por Tipo de Criativo
 
-**Para VSL:** "Toque em saiba mais e assista à apresentação que eu preparei" — não revela o que vai vender.
+**Para VSL:** "Toque em saiba mais e assista à apresentaçêo que eu preparei" — nêo revela o que vai vender.
 **Para página low-ticket:** "Toque em saiba mais e garanta sua vaga por R$[X]" — preço pode aparecer quando muito baixo.
 **Para remarketing:** CTA direto. "Clique e finalize sua compra."
 

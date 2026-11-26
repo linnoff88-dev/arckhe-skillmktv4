@@ -11,11 +11,11 @@ SÁBADO · TIRA-DÚVIDAS
 
 📛 NOME DO GRUPO: 🟡 TIRA-DÚVIDAS [horário] | [evento]
 
-**8h | GRUPO | Bom dia + gravação Aula 5 + aviso do tira-dúvidas (PRIMEIRA MSG DO DIA)**
+**8h | GRUPO | Bom dia + gravaçêo Aula 5 + aviso do tira-dúvidas (PRIMEIRA MSG DO DIA)**
 
 🟢 Bom dia, [chamada]!
 
-[Variação de gravação da Aula 5, conforme `variacao-mensagens.md`]
+[Variaçêo de gravaçêo da Aula 5, conforme `variacao-mensagens.md`]
 
 E hoje ainda tem: **Tira-dúvidas ao vivo às [horário]!**
 
@@ -52,7 +52,7 @@ Se tem qualquer dúvida sobre o que vimos essa semana, é agora.
 [ENTRAR NO TIRA-DÚVIDAS]
 [LINK-ZOOM]
 
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 ---
 
@@ -66,7 +66,7 @@ Acabamos de começar. Se tem alguma dúvida sobre o que vimos essa semana, entra
 
 **12h | API | Playlist + ficha de interesse**
 
-{{first_name}}, todas as aulas da semana tão disponíveis:
+{{first_name}}, todas as aulas da semana têo disponíveis:
 
 - Aula 1: **[Nome]** 👉 [LINK]
 - Aula 2: **[Nome]** 👉 [LINK]
@@ -74,35 +74,35 @@ Acabamos de começar. Se tem alguma dúvida sobre o que vimos essa semana, entra
 - Aula 4: **[Nome]** 👉 [LINK]
 - Aula 5: **[Nome]** 👉 [LINK]
 
-E se você ainda não preencheu a **Ficha de Interesse no [Nome do Produto]**:
+E se você ainda nêo preencheu a **Ficha de Interesse no [Nome do Produto]**:
 [PREENCHER FICHA]
 [LINK-FICHA]
 
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 ---
 
-📛 NOME DO GRUPO: ⏰ Amanhã, [horário]: Aula Final | [evento]
+📛 NOME DO GRUPO: ⏰ Amanhê, [horário]: Aula Final | [evento]
 
-**18h | GRUPO | Antecipação do domingo**
+**18h | GRUPO | Antecipaçêo do domingo**
 
-[Chamada], amanhã é a aula mais importante da semana.
+[Chamada], amanhê é a aula mais importante da semana.
 
 **Aula Final: [Nome da Aula 6]**
 
-Amanhã às [horário] eu vou juntar tudo que vimos durante a semana e te mostrar [teaser conectado ao resultado principal].
+Amanhê às [horário] eu vou juntar tudo que vimos durante a semana e te mostrar [teaser conectado ao resultado principal].
 
 [Frase emocional conectada ao objetivo do lead]
 
 Além disso, eu tenho bônus e condições especiais pra quem ficar até o final.
 
-Nos vemos amanhã às [horário]!
+Nos vemos amanhê às [horário]!
 
 ---
 
 ## Notas
 
-- O tira-dúvidas NÃO é aula de conteúdo. É aplicação e quebra de objeções.
+- O tira-dúvidas NêO é aula de conteúdo. É aplicaçêo e quebra de objeções.
 - SEM pesquisa de encerramento no sábado.
-- A antecipação às 18h é a última mensagem antes do pitch. Deve ser forte.
-- "Galerinha" pode aparecer pontualmente na antecipação de sábado à noite se combinar com o tom do expert.
+- A antecipaçêo às 18h é a última mensagem antes do pitch. Deve ser forte.
+- "Galerinha" pode aparecer pontualmente na antecipaçêo de sábado à noite se combinar com o tom do expert.

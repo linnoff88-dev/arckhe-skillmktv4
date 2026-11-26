@@ -1,6 +1,6 @@
 # Fase 8 — O Tear Operacional de 3 Pistas (Ciclo Contínuo)
 
-Quando o modelo está rodando, três coisas acontecem simultaneamente a cada semana. Gerenciar as três sem enlouquecer é o desafio real do lançamento semanal. A solução é o sistema universal de Tags de Semana.
+Quando o modelo está rodando, três coisas acontecem simultaneamente a cada semana. Gerenciar as três sem enlouquecer é o desafio real do lançamento semanal. A soluçêo é o sistema universal de Tags de Semana.
 
 ---
 
@@ -12,7 +12,7 @@ Gerenciando o pitch final, checkouts e entrega de bônus da turma da semana ante
 **Pista 2 — O Presente (Evento Rodando)**
 Entregando as aulas diárias (1 a 5) e nutrindo a comunidade para a turma da semana atual.
 
-**Pista 3 — O Futuro (Captação)**
+**Pista 3 — O Futuro (Captaçêo)**
 Campanhas Advantage+ ativas captando novos ingressos que recebem a tag da próxima semana.
 
 ---
@@ -21,14 +21,14 @@ Campanhas Advantage+ ativas captando novos ingressos que recebem a tag da próxi
 
 O lead sempre recebe a tag da semana em que o evento ocorrerá, nunca a tag da semana em que a compra foi efetuada.
 
-Exemplo: se estamos na Semana 13, o lead que compra hoje recebe a tag da Semana 14 (quando ele vai assistir ao evento), não da Semana 13.
+Exemplo: se estamos na Semana 13, o lead que compra hoje recebe a tag da Semana 14 (quando ele vai assistir ao evento), nêo da Semana 13.
 
 ---
 
 ## A Máquina de Juros Compostos
 
-Lançamentos tradicionais são eventos isolados que geram exaustão e ansiedade crônica. O lançamento semanal gravado é uma máquina de engenharia que roda 24/7.
+Lançamentos tradicionais sêo eventos isolados que geram exaustêo e ansiedade crônica. O lançamento semanal gravado é uma máquina de engenharia que roda 24/7.
 
-Ao iniciar a semana, os custos de tráfego já estão integralmente pagos pela venda de ingressos. Focando em otimizar a conversão de 1% a 2% por semana, o milagre dos juros compostos escala o negócio em 52 semanas.
+Ao iniciar a semana, os custos de tráfego já estêo integralmente pagos pela venda de ingressos. Focando em otimizar a conversêo de 1% a 2% por semana, o milagre dos juros compostos escala o negócio em 52 semanas.
 
-A automação traz a verdadeira paz mental. Sai o "tô rico, tô pobre". Entra a escala corporativa.
+A automaçêo traz a verdadeira paz mental. Sai o "tô rico, tô pobre". Entra a escala corporativa.

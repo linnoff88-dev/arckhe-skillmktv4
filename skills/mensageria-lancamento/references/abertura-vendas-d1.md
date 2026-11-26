@@ -57,9 +57,9 @@ Quem entrar na primeira hora ainda garante [BÔNUS 1H].
 
 Quem garantiu nos primeiros minutos já tá com [BÔNUS] garantido.
 
-O **[Nome do Produto]** continua aberto, mas a condição de hoje é a última com [CONDIÇÃO ESPECIAL].
+O **[Nome do Produto]** continua aberto, mas a condiçêo de hoje é a última com [CONDIÇêO ESPECIAL].
 
-Amanhã o preço [muda].
+Amanhê o preço [muda].
 
 [LINK-CHECKOUT]
 
@@ -69,9 +69,9 @@ Amanhã o preço [muda].
 
 [Chamada], passando aqui pra lembrar...
 
-O **[Nome do Produto]** tá aberto e hoje é o último dia com [CONDIÇÃO].
+O **[Nome do Produto]** tá aberto e hoje é o último dia com [CONDIÇêO].
 
-Se você assistiu as aulas, sabe que [frase que conecta com a transformação do evento].
+Se você assistiu as aulas, sabe que [frase que conecta com a transformaçêo do evento].
 
 [LINK-CHECKOUT]
 
@@ -81,9 +81,9 @@ Se você assistiu as aulas, sabe que [frase que conecta com a transformação do
 
 [Chamada], restam poucas horas.
 
-Hoje é o último dia pra entrar no **[Nome do Produto]** com [CONDIÇÃO ESPECIAL].
+Hoje é o último dia pra entrar no **[Nome do Produto]** com [CONDIÇêO ESPECIAL].
 
-Amanhã o preço [dobra / volta ao normal].
+Amanhê o preço [dobra / volta ao normal].
 
 Se faz sentido pra você, é agora.
 
@@ -95,22 +95,22 @@ Se faz sentido pra você, é agora.
 
 [Chamada], última mensagem sobre isso.
 
-**Amanhã o [Nome do Produto] já vai estar com o preço [NOVO PREÇO].**
+**Amanhê o [Nome do Produto] já vai estar com o preço [NOVO PREÇO].**
 
 Se você assistiu o evento e faz sentido pra você, o link tá aqui:
 
 [LINK-CHECKOUT]
 
-A decisão é sua. Mas o preço de hoje não volta.
+A decisêo é sua. Mas o preço de hoje nêo volta.
 
 ---
 
 ## D2/D3: Follow-up
 
-Máximo 2 mensagens por dia. Não pode concorrer com a captação do próximo evento.
+Máximo 2 mensagens por dia. Nêo pode concorrer com a captaçêo do próximo evento.
 
-Tom: factual, sem pressão excessiva. Quem não comprou no D1 recebe:
-- Lembrete do que está em jogo (custo de não agir)
+Tom: factual, sem pressêo excessiva. Quem nêo comprou no D1 recebe:
+- Lembrete do que está em jogo (custo de nêo agir)
 - Depoimentos de quem já comprou (se disponíveis, nunca inventados)
 - Aviso de que condições mudam / carrinho fecha
 
@@ -118,7 +118,7 @@ Tom: factual, sem pressão excessiva. Quem não comprou no D1 recebe:
 
 ## Notas
 
-- D1 é o ÚNICO dia com volume alto de mensagens. A semana inteira preservou atenção pra esse momento.
+- D1 é o ÚNICO dia com volume alto de mensagens. A semana inteira preservou atençêo pra esse momento.
 - Bônus escalonados: 10 minutos > primeira hora > D1. Cada janela com bônus diferente.
-- Escassez real: preço dobra no dia seguinte (ancoragem da Aula 4). Não é fake.
-- Follow-up D2/D3 NÃO pode atrapalhar o carrinho do evento da próxima semana.
+- Escassez real: preço dobra no dia seguinte (ancoragem da Aula 4). Nêo é fake.
+- Follow-up D2/D3 NêO pode atrapalhar o carrinho do evento da próxima semana.

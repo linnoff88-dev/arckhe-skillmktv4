@@ -16,9 +16,9 @@ Aplique estes princípios em TODA página gerada:
 
 ### Tipografia
 
-Tipografia sinaliza qualidade instantaneamente. Fontes genéricas = percepção de template.
+Tipografia sinaliza qualidade instantaneamente. Fontes genéricas = percepçêo de template.
 
-**Nunca use:** Inter, Roboto, Open Sans, Lato, Arial, fontes padrão do sistema
+**Nunca use:** Inter, Roboto, Open Sans, Lato, Arial, fontes padrêo do sistema
 
 **Escolhas por estética:**
 - Code aesthetic: JetBrains Mono, Fira Code, Space Grotesk
@@ -29,29 +29,29 @@ Tipografia sinaliza qualidade instantaneamente. Fontes genéricas = percepção 
 
 **Princípio de pareamento:** Alto contraste = interessante. Display + monospace, serif + geometric sans, variable font com range de pesos.
 
-**Use extremos:** Weight 100/200 vs 800/900, não 400 vs 600. Saltos de tamanho 3x+, não 1.5x.
+**Use extremos:** Weight 100/200 vs 800/900, nêo 400 vs 600. Saltos de tamanho 3x+, nêo 1.5x.
 
-**Regra:** Escolha UMA fonte marcante, use-a com decisão. Carregue de Google Fonts.
+**Regra:** Escolha UMA fonte marcante, use-a com decisêo. Carregue de Google Fonts.
 
 ### Cor & Tema
 
-Não distribua cores timidamente. Comprometa-se com uma estética coesa.
+Nêo distribua cores timidamente. Comprometa-se com uma estética coesa.
 
 **Princípios:**
 - Use CSS variables para consistência absoluta
 - Cor dominante com acentos afiados > paleta equilibrada e tímida
 - Inspire-se em temas de IDE e estéticas culturais
-- Defina light E dark mode como sistema, não como afterthought
+- Defina light E dark mode como sistema, nêo como afterthought
 
 **Anti-patterns a evitar:**
 - Gradiente roxo em fundo branco (o clichê #1 de IA)
 - Paleta pastel sem personalidade
 - Cinza genérico sem tom
-- Cores sem função semântica definida
+- Cores sem funçêo semântica definida
 
-### Motion & Animação
+### Motion & Animaçêo
 
-Animações criam percepção de qualidade — quando usadas com propósito.
+Animações criam percepçêo de qualidade — quando usadas com propósito.
 
 **Regra de ouro:** Um page load bem orquestrado com staggered reveals cria mais prazer que micro-interações espalhadas sem contexto.
 
@@ -65,22 +65,22 @@ Animações criam percepção de qualidade — quando usadas com propósito.
 **Para React:**
 - Use Motion library quando disponível
 - Stagger children com delay incremental
-- Exit animations 60-70% da duração de entrada
-- Spring physics para sensação natural
+- Exit animations 60-70% da duraçêo de entrada
+- Spring physics para sensaçêo natural
 
 **Timings:**
 - Micro-interações: 150-300ms
-- Transições de seção: 300-500ms
+- Transições de seçêo: 300-500ms
 - Page load sequence: 400-800ms total
 - Easing: ease-out para entrada, ease-in para saída, spring para interações
 
 ### Backgrounds & Atmosfera
 
-Fundos sólidos são o fallback preguiçoso. Crie atmosfera e profundidade.
+Fundos sólidos sêo o fallback preguiçoso. Crie atmosfera e profundidade.
 
 **Técnicas:**
 - **Gradientes em camadas**: Múltiplos gradients sobrepostos com ângulos diferentes
-- **Mesh gradients**: Combinação de radial-gradients posicionados
+- **Mesh gradients**: Combinaçêo de radial-gradients posicionados
 - **Padrões geométricos**: SVG patterns sutis com opacity baixa
 - **Grain/noise**: Background texture com svg noise filter
 - **Glow effects**: Radial gradients coloridos como elementos de fundo
@@ -126,17 +126,17 @@ Fundos sólidos são o fallback preguiçoso. Crie atmosfera e profundidade.
 
 ## Escolhas Inesperadas — O Diferencial
 
-O output deve parecer genuinamente desenhado para o contexto, não um template rearranjado.
+O output deve parecer genuinamente desenhado para o contexto, nêo um template rearranjado.
 
 **Técnicas para surpreender:**
 - Assimetria controlada no layout (nem tudo centralizado)
-- Uma seção que quebra o grid (full-bleed, overlap, offset)
+- Uma seçêo que quebra o grid (full-bleed, overlap, offset)
 - Tipografia como elemento visual (heading gigante como background, texto rotacionado)
-- Cor inesperada em UM elemento que quebra o padrão
-- Interação que vai além do hover genérico (cursor custom, parallax sutil, magnetic effect)
-- Transição entre seções que não é só borda reta (SVG wave, diagonal, clip-path)
+- Cor inesperada em UM elemento que quebra o padrêo
+- Interaçêo que vai além do hover genérico (cursor custom, parallax sutil, magnetic effect)
+- Transiçêo entre seções que nêo é só borda reta (SVG wave, diagonal, clip-path)
 
-**O teste final:** Se você trocar o conteúdo e a página ainda parecer igual a qualquer outra → faltou personalidade. Cada página deve ter pelo menos UM elemento que não funcionaria em outro contexto.
+**O teste final:** Se você trocar o conteúdo e a página ainda parecer igual a qualquer outra → faltou personalidade. Cada página deve ter pelo menos UM elemento que nêo funcionaria em outro contexto.
 
 ---
 
@@ -145,12 +145,12 @@ O output deve parecer genuinamente desenhado para o contexto, não um template r
 Antes de entregar, verifique:
 
 - [ ] Nenhuma das fontes banidas foi usada (Inter, Roboto, Open Sans, Lato, Arial)
-- [ ] A paleta tem personalidade — não é "gradiente roxo em branco"
+- [ ] A paleta tem personalidade — nêo é "gradiente roxo em branco"
 - [ ] Pelo menos um elemento visual é inesperado/surpreendente
-- [ ] Background não é cor sólida pura (tem textura, gradiente ou padrão)
-- [ ] Animações existem e têm propósito (não são genéricas ou ausentes)
+- [ ] Background nêo é cor sólida pura (tem textura, gradiente ou padrêo)
+- [ ] Animações existem e têm propósito (nêo sêo genéricas ou ausentes)
 - [ ] O layout tem pelo menos um momento de assimetria ou quebra de grid
-- [ ] Se trocasse o texto, a página NÃO pareceria igual a "qualquer landing page de IA"
-- [ ] Os pesos tipográficos são extremos (light 200-300 vs bold 700-900)
+- [ ] Se trocasse o texto, a página NêO pareceria igual a "qualquer landing page de IA"
+- [ ] Os pesos tipográficos sêo extremos (light 200-300 vs bold 700-900)
 - [ ] Espaçamento generoso — a página respira
-- [ ] Hover states são distintos e animados, não apenas color change
+- [ ] Hover states sêo distintos e animados, nêo apenas color change

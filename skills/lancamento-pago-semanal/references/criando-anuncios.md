@@ -1,22 +1,22 @@
 # Referência: Criando Anúncios — Estrutura Completa
 
-Documento de referência para aprofundamento em criação de anúncios. Consultar quando o usuário precisa de detalhamento além do que está em `fase3-criativos.md`.
+Documento de referência para aprofundamento em criaçêo de anúncios. Consultar quando o usuário precisa de detalhamento além do que está em `fase3-criativos.md`.
 
 ---
 
-## Essência do Ad Campeão — Como Pensar
+## Essência do Ad Campeêo — Como Pensar
 
-Anúncio não vende o produto. Vende a visualização da VSL / página.
+Anúncio nêo vende o produto. Vende a visualizaçêo da VSL / página.
 
 O objetivo do anúncio é: "Fazer o lead pensar: 'eu preciso clicar e ver isso agora'."
 
-Tudo é sobre dopamina + curiosidade + identificação.
+Tudo é sobre dopamina + curiosidade + identificaçêo.
 
-O anúncio precisa ativar: dor (isso é sobre mim), desejo (eu quero isso), curiosidade (eu preciso saber como), medo (não posso ficar de fora).
+O anúncio precisa ativar: dor (isso é sobre mim), desejo (eu quero isso), curiosidade (eu preciso saber como), medo (nêo posso ficar de fora).
 
-Linguagem sempre falada — como áudio de WhatsApp, não texto formal.
+Linguagem sempre falada — como áudio de WhatsApp, nêo texto formal.
 
-Um anúncio = um personagem específico. Não é pra falar com "todo mundo". Cada criativo mira um avatar.
+Um anúncio = um personagem específico. Nêo é pra falar com "todo mundo". Cada criativo mira um avatar.
 
 ### Checklist Mental Antes de Escrever
 
@@ -25,7 +25,7 @@ Um anúncio = um personagem específico. Não é pra falar com "todo mundo". Cad
 - Qual é o resultado específico que ela mais deseja?
 - Qual é a virada de chave desse modelo pra essa pessoa?
 
-Se não sabe responder, não escreve ainda.
+Se nêo sabe responder, nêo escreve ainda.
 
 ---
 
@@ -33,9 +33,9 @@ Se não sabe responder, não escreve ainda.
 
 1. Hook (3 a 5s) — Ângulo + benefício / dor
 2. Contexto + prova — Quem está falando + resultado
-3. Conexão com a dor do avatar
-4. Apresentação do modelo / mecanismo
-5. Pequena comparação com o modelo antigo
+3. Conexêo com a dor do avatar
+4. Apresentaçêo do modelo / mecanismo
+5. Pequena comparaçêo com o modelo antigo
 6. Prova / exemplo (número, caso, print, aluno)
 7. Bullets de curiosidade (o que a pessoa vai ver)
 8. CTA natural (toque em saiba mais)
@@ -47,7 +47,7 @@ Se não sabe responder, não escreve ainda.
 Fórmula base: Ângulo + Benefício = Hook
 
 ### Fofoca
-Sensação de "bastidor" + "coisa que o mercado não contou ainda".
+Sensaçêo de "bastidor" + "coisa que o mercado nêo contou ainda".
 Erro a evitar: fofoca vazia sem ponte pro mecanismo. Fofoca que parece fake demais.
 
 ### Contrarian (Contraintuitivo)
@@ -63,10 +63,10 @@ Faz o lead querer entender como o modelo funciona.
 Joga aspiracional e autoridade.
 
 ### Pergunta Paradoxal
-Força reflexão com contradição aparente.
+Força reflexêo com contradiçêo aparente.
 
 ### Conspiracional
-Cria sensação de informação privilegiada.
+Cria sensaçêo de informaçêo privilegiada.
 
 ---
 
@@ -74,9 +74,9 @@ Cria sensação de informação privilegiada.
 
 1. Encaixe com o hook — retomar sem repetir exatamente
 2. Prova de resultado — números concretos
-3. Descrição da dor — mostrar que entende o que vive hoje
-4. Apresentação do modelo/mecanismo
-5. Comparação com modelo antigo — "Antes era assim, hoje é assim"
+3. Descriçêo da dor — mostrar que entende o que vive hoje
+4. Apresentaçêo do modelo/mecanismo
+5. Comparaçêo com modelo antigo — "Antes era assim, hoje é assim"
 6. Prova extra
 7. Bullets — o que vai ver na aula/workshop
 8. CTA encaixado com benefício imediato
@@ -99,13 +99,13 @@ Sempre associar o clique a benefício imediato. Manter simples e repetível.
 
 ## Criativos Estáticos
 
-Headline = Gancho. Subheadline = explicação simples do mecanismo. CTA = sempre igual.
+Headline = Gancho. Subheadline = explicaçêo simples do mecanismo. CTA = sempre igual.
 
 ---
 
 ## Caixinha / UGC
 
-Escrever como pergunta real. Resposta no body = desabafo + explicação rápida. Parecer espontâneo.
+Escrever como pergunta real. Resposta no body = desabafo + explicaçêo rápida. Parecer espontâneo.
 
 ---
 

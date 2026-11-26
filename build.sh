@@ -1,5 +1,5 @@
 #!/bin/bash
-# Gera os arquivos .skill (ZIP) para distribuição a partir das pastas em skills/
+# Gera os arquivos .skill (ZIP) para distribuiçêo a partir das pastas em skills/
 mkdir -p dist
 for dir in skills/*/; do
   name=$(basename "$dir")

@@ -1,6 +1,6 @@
 # Page Patterns — Estruturas por Tipo de Página
 
-Padrões arquiteturais para os tipos de página mais comuns. Cada padrão define a sequência de seções, propósito de cada uma, e decisões de layout.
+Padrões arquiteturais para os tipos de página mais comuns. Cada padrêo define a sequência de seções, propósito de cada uma, e decisões de layout.
 
 ---
 
@@ -15,7 +15,7 @@ Objetivo: Converter visitante em lead ou comprador.
 │ 1. NAVBAR                       │ Logo + links + CTA
 ├─────────────────────────────────┤
 │ 2. HERO                         │ Headline + sub + CTA + visual
-│    (60-80vh)                    │ A seção mais importante.
+│    (60-80vh)                    │ A seçêo mais importante.
 ├─────────────────────────────────┤
 │ 3. SOCIAL PROOF BAR             │ Logos de clientes/mídia. Trust rápido.
 │    (compacta)                   │
@@ -38,7 +38,7 @@ Objetivo: Converter visitante em lead ou comprador.
 │ 9. FAQ                          │ Accordion. 5-8 perguntas.
 │                                 │
 ├─────────────────────────────────┤
-│ 10. FOOTER CTA                  │ Último push. Headline + botão.
+│ 10. FOOTER CTA                  │ Último push. Headline + botêo.
 │                                 │
 ├─────────────────────────────────┤
 │ 11. FOOTER                      │ Links, social, legal.
@@ -60,7 +60,7 @@ Objetivo: Converter visitante em lead ou comprador.
 **Hero com Video**
 - Background video ou video embed como visual principal
 - Melhor para: experiences, SaaS com demo
-- Atenção: Autoplay muted, fallback image, lazy load
+- Atençêo: Autoplay muted, fallback image, lazy load
 
 **Hero Minimal**
 - Apenas headline gigante (display font, 60-100px desktop) + CTA
@@ -71,7 +71,7 @@ Objetivo: Converter visitante em lead ou comprador.
 
 - **Alternância de fundos**: Seções alternam entre bg e bg-alt para ritmo visual
 - **Breathing room**: Seções com padding vertical generoso (80-120px desktop, 48-64px mobile)
-- **CTA repetido**: Não tenha medo de repetir o CTA principal 2-3 vezes ao longo da página
+- **CTA repetido**: Nêo tenha medo de repetir o CTA principal 2-3 vezes ao longo da página
 - **Sticky navbar**: Navbar fixa com blur/transparency no scroll. Shrink sutil.
 
 ---
@@ -89,11 +89,11 @@ Objetivo: Persuadir e converter. Copy é rainha, design serve a copy.
 │ 2. HERO                         │ Headline persuasiva + sub + CTA
 │    (copy-driven, menos visual)  │
 ├─────────────────────────────────┤
-│ 3. HISTÓRIA / CONEXÃO           │ Story que identifica. "Eu sei como é..."
+│ 3. HISTÓRIA / CONEXêO           │ Story que identifica. "Eu sei como é..."
 ├─────────────────────────────────┤
-│ 4. PROBLEMA AMPLIFICADO         │ Agita a dor. Consequências de não agir.
+│ 4. PROBLEMA AMPLIFICADO         │ Agita a dor. Consequências de nêo agir.
 ├─────────────────────────────────┤
-│ 5. MECANISMO / SOLUÇÃO          │ Apresenta o método. Por que é diferente.
+│ 5. MECANISMO / SOLUÇêO          │ Apresenta o método. Por que é diferente.
 ├─────────────────────────────────┤
 │ 6. BULLETS DE CURIOSIDADE       │ Fascinations. 8-15 bullets.
 ├─────────────────────────────────┤
@@ -111,7 +111,7 @@ Objetivo: Persuadir e converter. Copy é rainha, design serve a copy.
 ├─────────────────────────────────┤
 │ 13. URGÊNCIA / CLOSE            │ Último argumento + CTA final.
 ├─────────────────────────────────┤
-│ 14. PS                          │ Informação extra ou reforço.
+│ 14. PS                          │ Informaçêo extra ou reforço.
 └─────────────────────────────────┘
 ```
 
@@ -122,15 +122,15 @@ Objetivo: Persuadir e converter. Copy é rainha, design serve a copy.
 - **Cor de fundo**: Neutra (branco ou off-white). A cor vive nos CTAs e highlights.
 - **CTAs**: Cor vibrante que contrasta fortemente com o fundo. Tamanho generoso. Repetidos.
 - **Highlights**: Texto destacado com background-color sutil (amarelo, marca) para criar ritmo visual na leitura
-- **Testimonials**: Formato de quote longo, não card compacto. Com contexto e resultado.
+- **Testimonials**: Formato de quote longo, nêo card compacto. Com contexto e resultado.
 - **Stack da oferta**: Tabela visual ou lista empilhada com valores individuais risked → valor total → preço real
-- **Sem distrações**: Navbar mínima ou oculta. Sem links externos. Foco total na conversão.
+- **Sem distrações**: Navbar mínima ou oculta. Sem links externos. Foco total na conversêo.
 
 ---
 
 ## Dashboard / App
 
-Objetivo: Produtividade. Informação clara e acionável.
+Objetivo: Produtividade. Informaçêo clara e acionável.
 
 ### Layout Base
 
@@ -148,11 +148,11 @@ Objetivo: Produtividade. Informação clara e acionável.
 
 ### Princípios de Dashboard
 
-- **Densidade controlada**: Informação densa mas respirável. Grid com gaps consistentes.
+- **Densidade controlada**: Informaçêo densa mas respirável. Grid com gaps consistentes.
 - **Sidebar**: 240-280px largura. Collapsível. Icons + labels.
 - **Cards**: Rounded corners consistentes. Sombra sutil ou borda leve. Hover state.
 - **Data hierarchy**: Números grandes para KPIs. Tabelas para detalhes. Charts para tendências.
-- **Empty states**: Sempre. Mensagem + ação quando sem dados.
+- **Empty states**: Sempre. Mensagem + açêo quando sem dados.
 - **Loading**: Skeleton screens que espelham o layout final.
 - **Dark mode**: Dashboards frequentemente ficam melhor em dark. Considere como default.
 
@@ -179,7 +179,7 @@ Objetivo: Impressionar. O trabalho é o protagonista.
 ### Design Decisions
 
 - **Mínimo texto, máximo visual**: Deixe o trabalho falar
-- **Full-bleed images**: Projetos precisam de espaço. Não comprima em cards pequenos.
+- **Full-bleed images**: Projetos precisam de espaço. Nêo comprima em cards pequenos.
 - **Transições**: Shared element transitions entre grid e detalhe
 - **Tipografia**: Display font forte para títulos de projeto. Monospace para tags/categorias.
 - **Cursor**: Custom cursor em portfólios criativos adiciona personalidade
@@ -198,7 +198,7 @@ Objetivo: Explicar, demonstrar, converter.
 3. FEATURE SHOWCASE (2-3 features profundas com visual grande)
 4. INTEGRATIONS / STACK
 5. TESTIMONIALS / CASE STUDIES
-6. PRICING (comparação de planos)
+6. PRICING (comparaçêo de planos)
 7. FAQ
 8. FINAL CTA
 ```
@@ -208,7 +208,7 @@ Objetivo: Explicar, demonstrar, converter.
 - **Product shots**: Screenshots reais ou mockups high-fi. Nunca ilustrações genéricas.
 - **Feature showcase**: Alternar layout (texto esquerda + visual direita, depois inverte)
 - **Pricing**: Cards lado a lado. Plano recomendado destacado (borda, badge, escala maior).
-- **Comparação**: Toggle anual/mensal. Savings badge.
+- **Comparaçêo**: Toggle anual/mensal. Savings badge.
 - **Integration logos**: Grid de logos grayscale que ganham cor no hover.
 
 ---
@@ -232,7 +232,7 @@ Objetivo: Desejo + confiança = compra.
 ### Design Decisions
 
 - **Fotos**: Ocupam espaço generoso. Zoom, gallery, 360° quando possível.
-- **CTA fixo**: Botão de compra sticky no mobile (bottom bar).
+- **CTA fixo**: Botêo de compra sticky no mobile (bottom bar).
 - **Trust signals**: Ícones de frete, garantia, pagamento seguro perto do CTA.
 - **Reviews**: Stars + texto + foto do comprador. Filtros.
 - **Urgência**: Stock indicator, countdown quando genuíno.
@@ -244,6 +244,6 @@ Objetivo: Desejo + confiança = compra.
 1. **Navbar**: Sempre presente. Logo à esquerda, CTA à direita. Mobile: hamburger com menu fullscreen ou slide-in.
 2. **Footer**: Links organizados em colunas. Social icons. Legal (termos, privacidade). Newsletter opcional.
 3. **Responsive**: Mobile-first. Stacks no mobile, grids no desktop. Nada quebra entre 375px e 1440px.
-4. **Loading**: Toda transição de estado tem feedback visual.
+4. **Loading**: Toda transiçêo de estado tem feedback visual.
 5. **Scroll**: Smooth scroll para anchor links. Scroll-triggered reveals para engajamento.
-6. **Accessibility**: Skip links, focus management, alt text, contraste. Não é feature — é requisito.
+6. **Accessibility**: Skip links, focus management, alt text, contraste. Nêo é feature — é requisito.

@@ -4,61 +4,61 @@
 
 ## Carry Weight
 
-Mais mensagens durante a semana = menor abertura no D1 = menor conversão.
+Mais mensagens durante a semana = menor abertura no D1 = menor conversêo.
 
 O mais clean possível durante a semana. Toda a pancada concentrada no D1.
 
 ---
 
-## Uma Função Por Mensagem
+## Uma Funçêo Por Mensagem
 
-Preparação é só preparação. Ao vivo é só ao vivo. Gravação é só gravação.
+Preparaçêo é só preparaçêo. Ao vivo é só ao vivo. Gravaçêo é só gravaçêo.
 
-Exceção: Aula 4 onde gravação + ficha de interesse vão juntas (ficha é parte do evento).
+Exceçêo: Aula 4 onde gravaçêo + ficha de interesse vêo juntas (ficha é parte do evento).
 
 ---
 
-## Formatação SendFlow
+## Formataçêo SendFlow
 
 - Negrito: **texto** (asteriscos duplos)
 - Itálico: __texto__ (underlines duplos)
 - Bullets: "-" (hífen), nunca "•"
-- Nunca usar markdown padrão
+- Nunca usar markdown padrêo
 
 ---
 
 ## API vs Grupo
 
-**Grupo:** Público, tom de turma, sempre com saudação e contexto.
-**API:** Personalizada com {{first_name}}, mais curta, sempre com botão e "Digite SAIR".
+**Grupo:** Público, tom de turma, sempre com saudaçêo e contexto.
+**API:** Personalizada com {{first_name}}, mais curta, sempre com botêo e "Digite SAIR".
 
-Não usar API pra toda mensagem. Satura.
+Nêo usar API pra toda mensagem. Satura.
 
 ---
 
 ## Nome do Grupo como Semáforo
 
 Emojis de estado:
-- ⏰ = próxima aula / preparação
+- ⏰ = próxima aula / preparaçêo
 - 🔴 = ao vivo AGORA
 - 🟡 = tira-dúvidas
 - 🏆 = aula final
-- Sem emoji = disponível / gravação
+- Sem emoji = disponível / gravaçêo
 
 Exemplos de sequência:
-"⏰ Aula 1, 20h | [evento]" → "🔴 AO VIVO Aula 1 | [evento]" → "Aula 1 Disponível | [evento]" → "Gravação 1 Disponível | [evento]" → "⏰ Aula 2, 20h | [evento]"
+"⏰ Aula 1, 20h | [evento]" → "🔴 AO VIVO Aula 1 | [evento]" → "Aula 1 Disponível | [evento]" → "Gravaçêo 1 Disponível | [evento]" → "⏰ Aula 2, 20h | [evento]"
 
 ---
 
 ## Emojis Funcionais
 
-🟢 = primeira mensagem do dia (saudação)
+🟢 = primeira mensagem do dia (saudaçêo)
 🔴 = ao vivo AGORA
 🚨 = aviso importante
 ⬇️ = link abaixo
 👆 ☝️ = vídeo/áudio acima
-⚠️ = atenção
-✅ = confirmação
+⚠️ = atençêo
+✅ = confirmaçêo
 🔓 = abertura VIP
 ⏰ = prazo
 🔥 = D1, urgência
@@ -69,21 +69,21 @@ Exemplos de sequência:
 
 CORRETO:
 - Linguagem falada, como áudio de WhatsApp
-- "Jájá", "Bora", "Tá na mão", "Se prepara aí"
+- "Jájá", "Bora", "Tá na mêo", "Se prepara aí"
 - Frases curtas que respiram
 - Verbos diretos no presente
-- Urgência real, não forçada
+- Urgência real, nêo forçada
 
 PROIBIDO:
-- Travessão em qualquer lugar
-- Frases binárias: "Não é só sobre X. É sobre Y."
-- Padrão "Sem X. Sem Y. Só Z."
-- Sequências repetitivas: "Você não precisa disso. Você não precisa daquilo."
+- Travessêo em qualquer lugar
+- Frases binárias: "Nêo é só sobre X. É sobre Y."
+- Padrêo "Sem X. Sem Y. Só Z."
+- Sequências repetitivas: "Você nêo precisa disso. Você nêo precisa daquilo."
 - Clichês: "chegou a hora", "é agora ou nunca", "você merece mais", "oportunidade única", "resultados comprovados"
 - Perguntas retóricas forçadas: "A verdade? Isso muda tudo."
 - Transições mecânicas: "Além disso...", "Por outro lado..."
 
-EXCEÇÃO: se o expert aprovou e está no arquivo de referência, prevalece.
+EXCEÇêO: se o expert aprovou e está no arquivo de referência, prevalece.
 
 ---
 
@@ -91,12 +91,12 @@ EXCEÇÃO: se o expert aprovou e está no arquivo de referência, prevalece.
 
 Consultar `references/checklist-anti-ia.md` para lista completa de palavras e expressões proibidas.
 
-Verificação rápida:
-1. Saudação na primeira msg do dia?
-2. Chamada variada (não repetiu ontem)?
+Verificaçêo rápida:
+1. Saudaçêo na primeira msg do dia?
+2. Chamada variada (nêo repetiu ontem)?
 3. Contexto + motivo pra agir?
 4. Link ou placeholder?
-5. Formatação SendFlow?
+5. Formataçêo SendFlow?
 6. Zero travessões?
 7. Zero bullets com "•"?
 8. Zero palavras proibidas (checklist anti-IA)?

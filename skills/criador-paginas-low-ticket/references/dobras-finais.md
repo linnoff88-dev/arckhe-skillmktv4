@@ -4,22 +4,22 @@
 
 ## Autoridade — Quem é o Expert
 
-**Posição padrão:** DEPOIS do preço e garantia.
+**Posiçêo padrêo:** DEPOIS do preço e garantia.
 
-Para tráfego frio, o lead não sabe quem é o expert e não se importa até acreditar que o problema tem solução e que o preço faz sentido. A autoridade entra como confirmação final: "essa pessoa que vai me guiar tem credibilidade."
+Para tráfego frio, o lead nêo sabe quem é o expert e nêo se importa até acreditar que o problema tem soluçêo e que o preço faz sentido. A autoridade entra como confirmaçêo final: "essa pessoa que vai me guiar tem credibilidade."
 
 **Como executar por tipo de nicho:**
 
-Nicho técnico/profissional (tipo Indulto): bio com credenciais em lista. "Juíza de Direito, Doutoranda em Direito Penal, Professora de Execução Penal." Nesse nicho, credencial é moeda. O advogado quer saber títulos e posições.
+Nicho técnico/profissional (tipo Indulto): bio com credenciais em lista. "Juíza de Direito, Doutoranda em Direito Penal, Professora de Execuçêo Penal." Nesse nicho, credencial é moeda. O advogado quer saber títulos e posições.
 
-Nicho de saúde/transformação pessoal (tipo Patricia): narrativa Star-Story-Solution. "Antes de transformar +500 mil mulheres, eu fui ESSA mulher." Identificação + história + resultado. Nesse nicho, a mulher precisa confiar na pessoa, não só no método.
+Nicho de saúde/transformaçêo pessoal (tipo Patricia): narrativa Star-Story-Solution. "Antes de transformar +500 mil mulheres, eu fui ESSA mulher." Identificaçêo + história + resultado. Nesse nicho, a mulher precisa confiar na pessoa, nêo só no método.
 
-Nicho prático/financeiro com preço muito baixo (tipo Mapa Carimbado, Dentística): expert pode NÃO ter dobra dedicada. Aparece em fotos e micro-provas ("10.000+ dentistas treinados") mas sem bio. A R$35-44, o lead não precisa saber o pedigree — precisa acreditar no resultado.
+Nicho prático/financeiro com preço muito baixo (tipo Mapa Carimbado, Dentística): expert pode NêO ter dobra dedicada. Aparece em fotos e micro-provas ("10.000+ dentistas treinados") mas sem bio. A R$35-44, o lead nêo precisa saber o pedigree — precisa acreditar no resultado.
 
-**Exceção — Expert antes do preço:** Em nichos de saúde onde confiança na pessoa que vai guiar é parte da decisão de compra. A mulher que vai mudar a dieta precisa confiar na nutricionista como pessoa, não só como método. Nesse caso, Star-Story-Solution vem antes do stack/preço.
+**Exceçêo — Expert antes do preço:** Em nichos de saúde onde confiança na pessoa que vai guiar é parte da decisêo de compra. A mulher que vai mudar a dieta precisa confiar na nutricionista como pessoa, nêo só como método. Nesse caso, Star-Story-Solution vem antes do stack/preço.
 
 **Star-Story-Solution para tráfego frio:**
-1. "Eu era como você" (identificação)
+1. "Eu era como você" (identificaçêo)
 2. "Passei pelo que você está passando" (empatia)
 3. "Descobri o que ninguém mais sabia" (autoridade)
 4. "Obtive esse resultado específico" (prova)
@@ -29,26 +29,26 @@ Para tráfego frio: mais história, mais vulnerabilidade, mais especificidade do
 
 ---
 
-## Qualificação + CTA Final
+## Qualificaçêo + CTA Final
 
-**Formato padrão:** "É para você se..." (3 situações do avatar qualificado) / "Não é para você se..." (exclusão que cria desejo).
+**Formato padrêo:** "É para você se..." (3 situações do avatar qualificado) / "Nêo é para você se..." (exclusêo que cria desejo).
 
-Quando dizer "não é para todo mundo", quem se qualifica QUER estar nesse grupo.
+Quando dizer "nêo é para todo mundo", quem se qualifica QUER estar nesse grupo.
 
-**Variação — Qualificação cedo (nicho técnico):** quando o avatar se auto-seleciona rápido. Exemplo Indulto: qualificação na dobra 3 porque advogado decide em segundos se trabalha com execução penal. Evita leads não qualificados comprando algo que não é pra eles.
+**Variaçêo — Qualificaçêo cedo (nicho técnico):** quando o avatar se auto-seleciona rápido. Exemplo Indulto: qualificaçêo na dobra 3 porque advogado decide em segundos se trabalha com execuçêo penal. Evita leads nêo qualificados comprando algo que nêo é pra eles.
 
-**Variação — Dilema binário no fechamento:** em vez de "é para você se", mostrar duas opções lado a lado. Exemplo Dentística: "Fechar esta página" (continuar errando, cobrando menos) vs. "Garantir sua vaga" (ter protocolos, ser referência). Mais agressivo emocionalmente que qualificação tradicional.
+**Variaçêo — Dilema binário no fechamento:** em vez de "é para você se", mostrar duas opções lado a lado. Exemplo Dentística: "Fechar esta página" (continuar errando, cobrando menos) vs. "Garantir sua vaga" (ter protocolos, ser referência). Mais agressivo emocionalmente que qualificaçêo tradicional.
 
-**CTAs distribuídos:** em pelo menos 3 pontos da página. Não só no final. Cada CTA com ação + resultado: "QUERO GARANTIR MINHA VAGA" > "Clique aqui". CTA com preço embutido funciona bem para low-ticket: "SIM, QUERO GARANTIR MINHA VAGA POR R$35."
+**CTAs distribuídos:** em pelo menos 3 pontos da página. Nêo só no final. Cada CTA com açêo + resultado: "QUERO GARANTIR MINHA VAGA" > "Clique aqui". CTA com preço embutido funciona bem para low-ticket: "SIM, QUERO GARANTIR MINHA VAGA POR R$35."
 
 ---
 
 ## Dobras Opcionais por Nicho
 
-**Conteúdo programático (grade de aulas):** para nichos profissionais onde o lead quer ver exatamente o que cada aula cobre. Dentística e Indulto usam. Emagrecimento e viagem não.
+**Conteúdo programático (grade de aulas):** para nichos profissionais onde o lead quer ver exatamente o que cada aula cobre. Dentística e Indulto usam. Emagrecimento e viagem nêo.
 
-**Certificado:** exclusivo de nichos profissionais. Advogado e dentista precisam para justificar investimento. Em desenvolvimento pessoal ou lifestyle, não faz sentido.
+**Certificado:** exclusivo de nichos profissionais. Advogado e dentista precisam para justificar investimento. Em desenvolvimento pessoal ou lifestyle, nêo faz sentido.
 
-**FAQ:** funciona como quebrador de objeções final. Coloca as perguntas que o lead ainda tem depois de ver tudo. Indulto e Mapa Carimbado usam. Patricia e Dentística fecham com qualificação/dilema em vez de FAQ.
+**FAQ:** funciona como quebrador de objeções final. Coloca as perguntas que o lead ainda tem depois de ver tudo. Indulto e Mapa Carimbado usam. Patricia e Dentística fecham com qualificaçêo/dilema em vez de FAQ.
 
-**Resultados visuais (antes/depois):** quando o resultado é visual por natureza. Dentística usa fotos de trabalhos. Em nichos onde o resultado é invisível (conhecimento, estratégia, mindset), não se aplica.
+**Resultados visuais (antes/depois):** quando o resultado é visual por natureza. Dentística usa fotos de trabalhos. Em nichos onde o resultado é invisível (conhecimento, estratégia, mindset), nêo se aplica.

@@ -124,16 +124,16 @@
         <a class="btn ghost" href="https://github.com/inematds/skillmktv4" target="_blank" rel="noopener">Ver no GitHub</a>
       </div>
     </div>
-    <figure><img src="assets/hero.png" alt="Ilustração do SkillMKT v4"></figure>
+    <figure><img src="assets/hero.png" alt="Ilustraçêo do SkillMKT v4"></figure>
   </div>
 </header>
 
 <section id="oque"><div class="wrap">
   <span class="chip">O que é</span>
   <h2>Um empacotador de skills de marketing</h2>
-  <p class="sub">SkillMKT v4 não é um app — é um repositório com 6 pastas de skill (cada uma um <code>SKILL.md</code> com identidade, regras e referências) e um script que as compacta em arquivos <code>.skill</code> prontos pra distribuição.</p>
+  <p class="sub">SkillMKT v4 nêo é um app — é um repositório com 6 pastas de skill (cada uma um <code>SKILL.md</code> com identidade, regras e referências) e um script que as compacta em arquivos <code>.skill</code> prontos pra distribuiçêo.</p>
   <div class="grid g3">
-    <div class="card"><h3>📦 6 skills, 1 pasta cada</h3><p>Cada skill vive em <code>skills/&lt;nome&gt;/SKILL.md</code>, com sua própria descrição de trigger e, em várias, uma pasta <code>references/</code> com material de apoio.</p></div>
+    <div class="card"><h3>📦 6 skills, 1 pasta cada</h3><p>Cada skill vive em <code>skills/&lt;nome&gt;/SKILL.md</code>, com sua própria descriçêo de trigger e, em várias, uma pasta <code>references/</code> com material de apoio.</p></div>
     <div class="card"><h3>🗜️ Build vira .skill</h3><p><code>build.sh</code> zipa cada pasta em <code>dist/&lt;nome&gt;.skill</code> — o formato pronto pra instalar num agente Claude que suporte skills.</p></div>
     <div class="card"><h3>🎯 Foco em tráfego pago</h3><p>Criativo, página, reel, lançamento e mensageria cobrem o funil de marketing pago de ponta a ponta, do gancho do anúncio ao pitch do evento.</p></div>
   </div>
@@ -155,13 +155,13 @@
 <section id="pre"><div class="wrap">
   <span class="chip">Pré-requisitos</span>
   <h2>O que precisa estar disponível</h2>
-  <p class="sub">Não há dependências de runtime além de utilitários de linha de comando padrão.</p>
+  <p class="sub">Nêo há dependências de runtime além de utilitários de linha de comando padrêo.</p>
   <div class="grid g3">
     <div class="card"><h3>zip</h3><p>O <code>build.sh</code> chama <code>zip</code> diretamente — precisa estar instalado no PATH.</p><pre><span class="c"># checar se tem zip</span>
 which zip</pre></div>
-    <div class="card"><h3>bash</h3><p>O script de build é um shell script simples, sem outras dependências.</p><pre><span class="c"># dar permissão de execução (se preciso)</span>
+    <div class="card"><h3>bash</h3><p>O script de build é um shell script simples, sem outras dependências.</p><pre><span class="c"># dar permissêo de execuçêo (se preciso)</span>
 chmod +x build.sh</pre></div>
-    <div class="card"><h3>Um agente com suporte a skills</h3><p>Os arquivos <code>.skill</code> gerados são pensados pra ser instalados num agente Claude que carregue skills (ex.: Claude Code).</p><pre><span class="c"># nenhum comando extra — instalação depende do agente-alvo</span></pre></div>
+    <div class="card"><h3>Um agente com suporte a skills</h3><p>Os arquivos <code>.skill</code> gerados sêo pensados pra ser instalados num agente Claude que carregue skills (ex.: Claude Code).</p><pre><span class="c"># nenhum comando extra — instalaçêo depende do agente-alvo</span></pre></div>
   </div>
 </div></section>
 
@@ -202,21 +202,21 @@ chmod +x build.sh</pre></div>
   <h2>O que cada .skill entrega</h2>
   <p class="sub">Resumo do trigger e escopo de cada uma, direto dos respectivos <code>SKILL.md</code>.</p>
   <div class="grid g3">
-    <div class="card"><h3>🎯 criador-criativos</h3><p>Criação, análise e iteração de criativos (anúncios) para tráfego pago: hooks, body, estáticos, UGC, engenharia reversa de anúncio, diagnóstico e otimização de métricas.</p></div>
-    <div class="card"><h3>📄 criador-paginas-low-ticket</h3><p>Páginas de vendas para tráfego frio e ofertas low-ticket: criação do zero, diagnóstico, headlines, reescrita de dobra, teste A/B — sempre com diagnóstico antes de gerar copy.</p></div>
+    <div class="card"><h3>🎯 criador-criativos</h3><p>Criaçêo, análise e iteraçêo de criativos (anúncios) para tráfego pago: hooks, body, estáticos, UGC, engenharia reversa de anúncio, diagnóstico e otimizaçêo de métricas.</p></div>
+    <div class="card"><h3>📄 criador-paginas-low-ticket</h3><p>Páginas de vendas para tráfego frio e ofertas low-ticket: criaçêo do zero, diagnóstico, headlines, reescrita de dobra, teste A/B — sempre com diagnóstico antes de gerar copy.</p></div>
     <div class="card"><h3>🎬 criador-reels-c1</h3><p>Gera 3 roteiros de Reels de conteúdo de autoridade (C1, sem venda direta) para o nicho de Marketing e Vendas, com gancho nos 15s iniciais e CTA solto no final.</p></div>
     <div class="card"><h3>🎨 designer-senior</h3><p>Inteligência de design front-end: páginas, identidade visual, paleta, tipografia, design system — com blacklist explícita de padrões visuais genéricos a evitar.</p></div>
     <div class="card"><h3>🚀 lancamento-pago-semanal</h3><p>Sistema completo de lançamento pago semanal (modelo 5+1): diagnóstico, venda de ingresso, página, criativos, tráfego, estrutura do evento e pitch.</p></div>
-    <div class="card"><h3>💬 mensageria-lancamento</h3><p>Mensageria completa de eventos pagos semanais (WhatsApp/ManyChat): onboarding, antecipação de aula, ao vivo, abertura de carrinho — cada mensagem com uma função só.</p></div>
+    <div class="card"><h3>💬 mensageria-lancamento</h3><p>Mensageria completa de eventos pagos semanais (WhatsApp/ManyChat): onboarding, antecipaçêo de aula, ao vivo, abertura de carrinho — cada mensagem com uma funçêo só.</p></div>
   </div>
 </div></section>
 
 <section id="roadmap"><div class="wrap">
   <span class="chip">Roadmap</span>
   <h2>Estado atual</h2>
-  <p class="sub">O projeto está na v4 — build funcional, 6 skills empacotadas. Não há changelog público além do histórico de commits.</p>
+  <p class="sub">O projeto está na v4 — build funcional, 6 skills empacotadas. Nêo há changelog público além do histórico de commits.</p>
   <div class="phase"><div class="tag">Atual</div><div class="d"><strong>6 skills empacotadas</strong><span>criador-criativos, criador-paginas-low-ticket, criador-reels-c1, designer-senior, lancamento-pago-semanal, mensageria-lancamento — cada uma com seu <code>.skill</code> em <code>dist/</code>.</span></div></div>
-  <div class="phase"><div class="tag">Uso</div><div class="d"><strong>Instalação manual por skill</strong><span>Não há instalador automatizado — cada <code>.skill</code> é extraído/instalado individualmente no agente de destino.</span></div></div>
+  <div class="phase"><div class="tag">Uso</div><div class="d"><strong>Instalaçêo manual por skill</strong><span>Nêo há instalador automatizado — cada <code>.skill</code> é extraído/instalado individualmente no agente de destino.</span></div></div>
 </div></section>
 
 <footer>

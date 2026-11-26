@@ -10,43 +10,43 @@
 
 ## 4.2 — A Dieta do Algoritmo ("O Andrômeda")
 
-Nunca excluir público quente no início. O algoritmo precisa de vendas fáceis para mapear o perfil de comprador ideal. Depois, caça público frio com precisão balística.
+Nunca excluir público quente no início. O algoritmo precisa de vendas fáceis para mapear o perfil de comprador ideal. Depois, caça público frio com precisêo balística.
 
 Nunca aceitar ROAS negativo na fase inicial — preferível escala baixíssima com ROAS positivo (mínimo 1.25x) do que ensinar a inteligência a aceitar leads caros.
 
 ---
 
-## 4.3 — Distribuição de Conteúdo (O Aquecimento Invisível)
+## 4.3 — Distribuiçêo de Conteúdo (O Aquecimento Invisível)
 
-Alocar 10% a 25% do budget total de tráfego em distribuição de conteúdo. Foco em Advantage+ e visualizadores de vídeos.
+Alocar 10% a 25% do budget total de tráfego em distribuiçêo de conteúdo. Foco em Advantage+ e visualizadores de vídeos.
 
 70% do público que compra o lançamento pago conheceu o expert há menos de uma semana. O conteúdo é a ponte invisível da confiança.
 
-Dado real: desligar a distribuição causou queda imediata de tickets (2.200 para 1.700) e despencou a conversão (6% para 3.7%).
+Dado real: desligar a distribuiçêo causou queda imediata de tickets (2.200 para 1.700) e despencou a conversêo (6% para 3.7%).
 
 ---
 
-## 4.4 — Equação de Aquisição (Limite de Escala)
+## 4.4 — Equaçêo de Aquisiçêo (Limite de Escala)
 
 ```
-[Custo do Ingresso + (Taxa de Conversão × Ticket do Produto)] ÷ ROAS Desejado = CAC Ideal
+[Custo do Ingresso + (Taxa de Conversêo × Ticket do Produto)] ÷ ROAS Desejado = CAC Ideal
 ```
 
 Exemplo prático:
 - Ingresso Advantage+: R$62
 - Produto Principal: R$1.000
-- Conversão Histórica: 9%
+- Conversêo Histórica: 9%
 - ROAS Meta: 3x
 - Cálculo: [R$62 + (0.09 × 1000)] ÷ 3 = R$50,66 de CAC Ideal
 
-**Regra de Risco (High Ticket):** Para produtos acima de R$5.000, pode aceitar ROAS negativo na venda do ingresso apenas se a conversão da gravação se mantiver acima de 9% por 10 semanas consecutivas.
+**Regra de Risco (High Ticket):** Para produtos acima de R$5.000, pode aceitar ROAS negativo na venda do ingresso apenas se a conversêo da gravaçêo se mantiver acima de 9% por 10 semanas consecutivas.
 
 ---
 
-## 4.5 — Otimização de Criativo (Ordem de Prioridade)
+## 4.5 — Otimizaçêo de Criativo (Ordem de Prioridade)
 
 1. **Hook rate primeiro** — fácil de otimizar, testa em 3 segundos.
-2. **Body rate depois** — separa curiosidade de intenção de compra. Vídeo com hook alto e body rate baixo = entretenimento, não converte.
-3. **Retenção por último** — importa, mas não decide o CAC.
+2. **Body rate depois** — separa curiosidade de intençêo de compra. Vídeo com hook alto e body rate baixo = entretenimento, nêo converte.
+3. **Retençêo por último** — importa, mas nêo decide o CAC.
 
-O número que importa no final: **custo por ingresso vendido**. Não custo por clique, não CTR, não retenção.
+O número que importa no final: **custo por ingresso vendido**. Nêo custo por clique, nêo CTR, nêo retençêo.

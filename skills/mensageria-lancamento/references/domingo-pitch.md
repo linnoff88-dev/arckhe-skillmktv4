@@ -33,12 +33,12 @@ Fica de olho no grupo. Hoje vale cada minuto.
 
 👆 Assista o recado que gravei pra você.
 
-Te espero às 20h. Não perde.
+Te espero às 20h. Nêo perde.
 
 [ACESSAR AULA FINAL]
 [LINK-AULA-6]
 
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 **19h | GRUPO | 1h antes (SEM bullets, só urgência)**
 
@@ -71,7 +71,7 @@ Tudo que vimos se conecta hoje.
 Bora 👇
 [ACESSAR AULA FINAL]
 [LINK-AULA-6]
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 **20h20 | GRUPO | Repescagem**
 
@@ -79,24 +79,24 @@ Essa é a aula que junta tudo. Eu tenho [teaser de bônus/surpresa] pra quem fic
 Entra aqui ⬇️
 [LINK-AULA-6]
 
-📛 NOME DO GRUPO: ⏰ Amanhã, Abertura | [Nome do Produto]
+📛 NOME DO GRUPO: ⏰ Amanhê, Abertura | [Nome do Produto]
 
 **22h | GRUPO | Lembrete abertura (SEM despertador)**
 
-[Chamada], amanhã às [HORA DA ABERTURA] eu abro as inscrições do **[Nome do Produto]**.
+[Chamada], amanhê às [HORA DA ABERTURA] eu abro as inscrições do **[Nome do Produto]**.
 
 Quem preencheu a **Ficha de Interesse** recebe o link 10 minutos antes de todo mundo.
 
-Se ainda não preencheu:
+Se ainda nêo preencheu:
 [LINK-FICHA]
 
 [Teaser dos bônus sem revelar tudo]
 
-Nos vemos amanhã! [EMOJI]
+Nos vemos amanhê! [EMOJI]
 
 ---
 
-## MODELO MANHÃ (pitch às 7h)
+## MODELO MANHê (pitch às 7h)
 
 ```
 ═══════════════════════════════════
@@ -107,13 +107,13 @@ DOMINGO · AULA FINAL (PITCH)
 
 📛 6h30 | NOME DO GRUPO: ⏰ Aula Final, 7h | [evento]
 
-**6h45 | GRUPO | Preparação (PRIMEIRA MSG DO DIA)**
+**6h45 | GRUPO | Preparaçêo (PRIMEIRA MSG DO DIA)**
 
 🟢 Bom dia, [chamada]! Chegou o momento.
 
 __Em 15 minutos:__ Nossa última aula vai tá no ar.
 
-Hoje eu junto tudo que vimos na semana. Essa é a aula que você não pode perder.
+Hoje eu junto tudo que vimos na semana. Essa é a aula que você nêo pode perder.
 
 Entra no link:
 [LINK-AULA-6]
@@ -135,7 +135,7 @@ Tudo que vimos se conecta hoje.
 Bora 👇
 [ACESSAR AULA FINAL]
 [LINK-AULA-6]
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 **7h20 | GRUPO | Repescagem**
 
@@ -143,24 +143,24 @@ Essa é a aula que junta tudo. Eu tenho [teaser] pra quem ficar até o final.
 Entra aqui ⬇️
 [LINK-AULA-6]
 
-📛 9h | NOME DO GRUPO: ⏰ Amanhã, Abertura | [Nome do Produto]
+📛 9h | NOME DO GRUPO: ⏰ Amanhê, Abertura | [Nome do Produto]
 
-**9h | GRUPO | Gravação disponível**
+**9h | GRUPO | Gravaçêo disponível**
 
-[Variação de gravação]
+[Variaçêo de gravaçêo]
 
 **19h | GRUPO | Lembrete abertura (SEM despertador)**
 
-[Chamada], amanhã às [HORA DA ABERTURA] eu abro as inscrições do **[Nome do Produto]**.
+[Chamada], amanhê às [HORA DA ABERTURA] eu abro as inscrições do **[Nome do Produto]**.
 
 Quem preencheu a **Ficha de Interesse** recebe o link 10 minutos antes de todo mundo.
 
-Se ainda não preencheu:
+Se ainda nêo preencheu:
 [LINK-FICHA]
 
 [Teaser dos bônus]
 
-Nos vemos amanhã! [EMOJI]
+Nos vemos amanhê! [EMOJI]
 
 ---
 

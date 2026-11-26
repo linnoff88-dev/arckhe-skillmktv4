@@ -24,14 +24,14 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 
 ---
 
-## 2. Touch & Interação (CRITICAL)
+## 2. Touch & Interaçêo (CRITICAL)
 
 | Regra | O que fazer |
 |-------|------------|
 | `touch-target-size` | Mínimo 44×44px (iOS) / 48×48dp (Android). Expanda hitSlop se ícone é menor. |
 | `touch-spacing` | Mínimo 8px gap entre alvos touch. |
-| `hover-vs-tap` | Click/tap para interações primárias. Não dependa de hover. |
-| `loading-buttons` | Desabilite botão durante async. Mostre spinner ou progresso. |
+| `hover-vs-tap` | Click/tap para interações primárias. Nêo dependa de hover. |
+| `loading-buttons` | Desabilite botêo durante async. Mostre spinner ou progresso. |
 | `error-feedback` | Mensagem de erro clara perto do problema. |
 | `cursor-pointer` | `cursor: pointer` em todo clicável (web). |
 | `tap-feedback` | Feedback visual no press (ripple/opacity/elevation) dentro de 100ms. |
@@ -44,7 +44,7 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 
 | Regra | O que fazer |
 |-------|------------|
-| `image-optimization` | WebP/AVIF, srcset/sizes responsivo, lazy load não-críticos. |
+| `image-optimization` | WebP/AVIF, srcset/sizes responsivo, lazy load nêo-críticos. |
 | `image-dimension` | Declare width/height ou aspect-ratio para prevenir layout shift. |
 | `font-loading` | `font-display: swap` ou `optional`. Preload apenas fontes críticas. |
 | `critical-css` | CSS above-the-fold inline ou carregado cedo. |
@@ -55,7 +55,7 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 
 ---
 
-## 4. Seleção de Estilo (HIGH)
+## 4. Seleçêo de Estilo (HIGH)
 
 | Regra | O que fazer |
 |-------|------------|
@@ -64,7 +64,7 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 | `no-emoji-icons` | Use SVG icons (Lucide, Heroicons). Nunca emojis como ícones estruturais. |
 | `effects-match-style` | Shadows, blur, radius alinhados ao estilo escolhido. |
 | `state-clarity` | Hover/pressed/disabled visualmente distintos. |
-| `elevation-consistent` | Escala de elevação/shadow consistente. Sem shadows aleatórias. |
+| `elevation-consistent` | Escala de elevaçêo/shadow consistente. Sem shadows aleatórias. |
 | `dark-mode-pairing` | Light/dark desenhados juntos para manter consistência. |
 | `icon-style-consistent` | Um set de ícones com mesmo estilo (stroke width, corner radius). |
 | `primary-action` | Cada tela tem UM CTA primário. Ações secundárias visualmente subordinadas. |
@@ -85,7 +85,7 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 | `container-width` | Max-width consistente no desktop (max-w-6xl ou 7xl). |
 | `z-index-management` | Escala definida de z-index (0/10/20/40/100/1000). |
 | `content-priority` | Conteúdo core primeiro no mobile. Secundário fold ou hide. |
-| `visual-hierarchy` | Hierarquia via tamanho, spacing, contraste — não cor sozinha. |
+| `visual-hierarchy` | Hierarquia via tamanho, spacing, contraste — nêo cor sozinha. |
 
 ---
 
@@ -98,14 +98,14 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 | `font-scale` | Escala consistente (12/14/16/20/24/32/40/48). |
 | `contrast-readability` | Texto escuro em fundo claro. Mínimo #334155 em branco. |
 | `color-semantic` | Tokens semânticos (primary, secondary, error). Nunca hex hardcoded em componentes. |
-| `color-dark-mode` | Dark mode usa variantes tonais desaturadas, não cores invertidas. |
+| `color-dark-mode` | Dark mode usa variantes tonais desaturadas, nêo cores invertidas. |
 | `truncation-strategy` | Prefira wrap. Se truncar, use ellipsis + tooltip/expand. |
 | `whitespace-balance` | Whitespace intencional para agrupar e separar. Evite clutter. |
 | `number-tabular` | Figuras tabulares para dados, preços, timers. |
 
 ---
 
-## 7. Animação (MEDIUM)
+## 7. Animaçêo (MEDIUM)
 
 | Regra | O que fazer |
 |-------|------------|
@@ -113,10 +113,10 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 | `transform-performance` | Anime apenas transform e opacity. Nunca width/height/top/left. |
 | `loading-states` | Skeleton/progress quando loading >300ms. |
 | `easing` | ease-out para entrada, ease-in para saída. Nunca linear para UI. |
-| `motion-meaning` | Toda animação expressa causa-efeito, não decoração. |
+| `motion-meaning` | Toda animaçêo expressa causa-efeito, nêo decoraçêo. |
 | `stagger-sequence` | Stagger 30-50ms por item em listas/grids. |
-| `exit-faster-than-enter` | Exit = 60-70% da duração de entrada. |
-| `interruptible` | Animações canceláveis por interação do usuário. |
+| `exit-faster-than-enter` | Exit = 60-70% da duraçêo de entrada. |
+| `interruptible` | Animações canceláveis por interaçêo do usuário. |
 | `no-blocking-animation` | UI interativa durante animações. Nunca bloqueie input. |
 | `scale-feedback` | Scale sutil (0.95-1.05) no press de cards/buttons. |
 
@@ -130,26 +130,26 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 | `error-placement` | Erro abaixo do campo relacionado. |
 | `submit-feedback` | Loading → success/error state no submit. |
 | `required-indicators` | Marque campos obrigatórios (asterisco). |
-| `empty-states` | Mensagem útil + ação quando sem conteúdo. |
+| `empty-states` | Mensagem útil + açêo quando sem conteúdo. |
 | `toast-dismiss` | Auto-dismiss toasts em 3-5s. |
 | `confirmation-dialogs` | Confirme antes de ações destrutivas. |
-| `inline-validation` | Valide no blur (não keystroke). Erro só após terminar input. |
+| `inline-validation` | Valide no blur (nêo keystroke). Erro só após terminar input. |
 | `progressive-disclosure` | Revele opções complexas progressivamente. |
-| `error-recovery` | Mensagem de erro inclui caminho de recuperação (retry, edit, help). |
+| `error-recovery` | Mensagem de erro inclui caminho de recuperaçêo (retry, edit, help). |
 | `focus-management` | Após erro de submit, auto-focus no primeiro campo inválido. |
 
 ---
 
-## 9. Navegação (HIGH)
+## 9. Navegaçêo (HIGH)
 
 | Regra | O que fazer |
 |-------|------------|
 | `back-behavior` | Back previsível e consistente. Preserve scroll/state. |
-| `nav-label-icon` | Itens de navegação com ícone E texto. Icon-only prejudica descoberta. |
-| `nav-state-active` | Localização atual destacada visualmente (cor, peso, indicador). |
+| `nav-label-icon` | Itens de navegaçêo com ícone E texto. Icon-only prejudica descoberta. |
+| `nav-state-active` | Localizaçêo atual destacada visualmente (cor, peso, indicador). |
 | `modal-escape` | Modais oferecem dismiss claro. Mobile: swipe-down dismiss. |
 | `breadcrumb-web` | Breadcrumbs para hierarquias 3+ níveis (web). |
-| `navigation-consistency` | Navegação no mesmo lugar em TODAS as páginas. |
+| `navigation-consistency` | Navegaçêo no mesmo lugar em TODAS as páginas. |
 | `bottom-nav-limit` | Bottom nav max 5 items (mobile). |
 
 ---
@@ -158,7 +158,7 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 
 | Regra | O que fazer |
 |-------|------------|
-| `chart-type` | Trend → line. Comparação → bar. Proporção → pie/donut. |
+| `chart-type` | Trend → line. Comparaçêo → bar. Proporçêo → pie/donut. |
 | `legend-visible` | Legenda sempre visível, perto do chart. |
 | `tooltip-on-interact` | Tooltip com valores exatos no hover/tap. |
 | `responsive-chart` | Charts se adaptam em telas pequenas. |
@@ -175,11 +175,11 @@ Organizado por prioridade: resolva CRITICAL e HIGH antes de polir MEDIUM e LOW.
 - [ ] Tokens semânticos de tema (sem hex hardcoded)
 - [ ] Press states sem layout shift
 
-### Interação
+### Interaçêo
 - [ ] Todos os clicáveis têm feedback de press
 - [ ] Touch targets ≥44px
 - [ ] Timing 150-300ms com easing natural
-- [ ] Disabled states claros e não-interativos
+- [ ] Disabled states claros e nêo-interativos
 - [ ] Focus order = visual order
 
 ### Light/Dark Mode

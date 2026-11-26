@@ -1,12 +1,12 @@
 # Exemplo: Casa no Custo (CNC) , Mensageria Completa
 
-**Nicho:** Construção / Reforma
+**Nicho:** Construçêo / Reforma
 **Expert:** Engenheiro Matheus
-**Horário:** 7h manhã
+**Horário:** 7h manhê
 **Emoji:** 🚧
 **Chamada:** "Turma" / "Pessoal"
 **Tom:** Técnico-prático, direto, sem exagero. Poucos emojis, funcionais.
-**Zoom:** Sim, sábado manhã
+**Zoom:** Sim, sábado manhê
 
 ---
 
@@ -16,12 +16,12 @@
 2. Os 10 itens mais caros da sua obra
 3. Teste da grana: será que vai dar?
 4. Economizando onde as pessoas mais erram
-5. Sem medo da mão de obra
+5. Sem medo da mêo de obra
 6. O segredo máximo da obra de sucesso
 
 ---
 
-## Padrão de Mensagem (Exemplo: Segunda , Aula 1)
+## Padrêo de Mensagem (Exemplo: Segunda , Aula 1)
 
 **MUDAR NOME** | 6:30: Aula 1, 7h 🚧 Casa no Custo
 
@@ -44,7 +44,7 @@ Toca no link abaixo e vem pra aula:
 {{Primeiro Nome}}, estamos AO VIVO AGORA.
 Aula 1 já começou. Bora 👇
 [ACESSAR AULA 1]
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 **7:20 GRUPO:**
 __Ainda dá tempo.__
@@ -56,25 +56,25 @@ Entra aqui: ⬇️
 **MUDAR NOME** | 9:00: Aula 1 Disponível 🚧 Casa no Custo
 
 **12:00 GRUPO:**
-**GRAVAÇÃO DISPONÍVEL**
+**GRAVAÇêO DISPONÍVEL**
 Se você perdeu a primeira aula ao vivo, assiste agora:
 **4 erros fatais que destroem o seu orçamento**
 - R$ 300 mil que viram R$ 450 mil
 - Onde o dinheiro some
 - Como cortar 30% sem prejudicar a obra
-Toca no link abaixo pra assistir a gravação 👇
+Toca no link abaixo pra assistir a gravaçêo 👇
 [LINK]
 
-**MUDAR NOME** | 18:55: Aula 2, amanhã, 7h 🚧 Casa no Custo
+**MUDAR NOME** | 18:55: Aula 2, amanhê, 7h 🚧 Casa no Custo
 
 **19:00 GRUPO:**
-Turma, já começamos intenso, mas amanhã vai ser melhor ainda…
-Amanhã às 7h vamos ver:
+Turma, já começamos intenso, mas amanhê vai ser melhor ainda…
+Amanhê às 7h vamos ver:
 **Aula 2: 10 itens mais caros da sua obra** + como economizar em cada um.
 Essa aula vale ouro. Literalmente!
 > Você sabia que de 10 mil itens, 10 desses correspondem a 70% do valor total de uma obra?
-Vai te ajudar a poupar MUITO. Não perca!
-Nos vemos amanhã às 7h.
+Vai te ajudar a poupar MUITO. Nêo perca!
+Nos vemos amanhê às 7h.
 
 ---
 
@@ -83,19 +83,19 @@ Nos vemos amanhã às 7h.
 Frases curtas. Pausas entre blocos. Sem exagero emocional , é engenheiro falando com quem vai construir.
 
 "Deixa eu te falar uma coisa rápida…
-A maioria das pessoas não estoura o orçamento na obra lá no final.
+A maioria das pessoas nêo estoura o orçamento na obra lá no final.
 Elas destroem o orçamento antes mesmo de começar.
 E o pior… sem perceber."
 
-Linguagem do nicho: "obra", "orçamento", "construção", "reforma", "acabamento", "empreiteira", "pedreiro".
+Linguagem do nicho: "obra", "orçamento", "construçêo", "reforma", "acabamento", "empreiteira", "pedreiro".
 
 ---
 
 ## O Que Faz Esse Exemplo Funcionar
 
 - Antecipações usam NÚMEROS específicos do nicho ("R$300 mil que viram R$450 mil", "R$50 mil de economia")
-- Os nomes das aulas vendem a visualização sozinhos , a antecipação só amplifica
-- Tom constante , Matheus não exagera, não grita, não usa caixa alta excessiva
+- Os nomes das aulas vendem a visualizaçêo sozinhos , a antecipaçêo só amplifica
+- Tom constante , Matheus nêo exagera, nêo grita, nêo usa caixa alta excessiva
 - Emojis mínimos e funcionais (🟢 🔴 ⬇️ 🚨)
-- Pesquisa no sábado para adaptar exemplos , cria sensação de personalização
+- Pesquisa no sábado para adaptar exemplos , cria sensaçêo de personalizaçêo
 - Ficha de interesse na Aula 4 com vídeo dedicado

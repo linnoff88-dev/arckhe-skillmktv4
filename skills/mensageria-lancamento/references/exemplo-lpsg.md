@@ -2,17 +2,17 @@
 
 **Nicho:** Marketing digital / Infoprodutores
 **Expert:** Leo Tabari
-**Horário:** 7h manhã
+**Horário:** 7h manhê
 **Emoji:** 🚀
 **Chamada:** "Turbos" / "Turma"
-**Tom:** Energético, estratégico, usa jargão de marketing. Mais emojis (⚡ 🚀 💪).
+**Tom:** Energético, estratégico, usa jargêo de marketing. Mais emojis (⚡ 🚀 💪).
 **Zoom:** Sim, sábado
 
 ---
 
 ## Aulas
 
-1. O lançamento que se paga na captação
+1. O lançamento que se paga na captaçêo
 2. Qual modelo de lançamento escolher , estrutura e aulas
 3. Fazendo as páginas e subindo as campanhas
 4. Onde e quando otimizar o funil
@@ -21,7 +21,7 @@
 
 ---
 
-## Padrão de Mensagem (Exemplo: Segunda , Aula 1)
+## Padrêo de Mensagem (Exemplo: Segunda , Aula 1)
 
 **MUDAR NOME** | 6:30: Aula 1, 7h 🚀 LPSG
 
@@ -36,7 +36,7 @@ Já entra no link:
 
 **7:00 GRUPO:**
 🔴 **ESTAMOS AO VIVO AGORA**
-Aula 1 , O lançamento que se paga na captação
+Aula 1 , O lançamento que se paga na captaçêo
 Toca no link e vem pra aula:
 [LINK]
 
@@ -44,7 +44,7 @@ Toca no link e vem pra aula:
 {{Primeiro Nome}}, estamos AO VIVO AGORA.
 Aula 1 já começou. Bora 👇
 [ACESSAR AULA 1]
-Digite "SAIR" para não receber mensagens como esta.
+Digite "SAIR" para nêo receber mensagens como esta.
 
 **7:20 GRUPO:**
 **Ainda dá tempo, BORA!**
@@ -56,24 +56,24 @@ Entra aqui: ⬇️
 **MUDAR NOME** | 9:00: Aula 1 Disponível 🚀 LPSG
 
 **12:00 GRUPO:**
-🎥 **GRAVAÇÃO DISPONÍVEL**
-Se você perdeu a primeira aula ao vivo, assiste agora: __O lançamento que se paga na captação__
-- Como a captação deixa de ser custo e se paga sozinha
+🎥 **GRAVAÇêO DISPONÍVEL**
+Se você perdeu a primeira aula ao vivo, assiste agora: __O lançamento que se paga na captaçêo__
+- Como a captaçêo deixa de ser custo e se paga sozinha
 - A estrutura onde o carrinho já abre com lucro
 - Definindo o produto e a promessa para esse novo modelo
-Toca no link abaixo pra assistir a gravação 👇
+Toca no link abaixo pra assistir a gravaçêo 👇
 [LINK]
 
-**MUDAR NOME** | 18:55: Aula 2, amanhã, 7h 🚀 LPSG
+**MUDAR NOME** | 18:55: Aula 2, amanhê, 7h 🚀 LPSG
 
 **19:00 GRUPO:**
-Turbos, já começamos com tudo, mas amanhã vai ser ainda mais prático…
-Amanhã às 7h vamos ver:
+Turbos, já começamos com tudo, mas amanhê vai ser ainda mais prático…
+Amanhê às 7h vamos ver:
 **Aula 2: Qual modelo de lançamento escolher , estrutura e aulas**
 Você vai entender qual estrutura de evento converte mais para o seu nicho e como organizar as aulas que conduz o lead até o produto principal.
-> Você sabia que o modelo certo impacta diretamente a conversão no carrinho?
-Não perca!
-Nos vemos amanhã às 7h.
+> Você sabia que o modelo certo impacta diretamente a conversêo no carrinho?
+Nêo perca!
+Nos vemos amanhê às 7h.
 
 ---
 
@@ -83,21 +83,21 @@ Nos vemos amanhã às 7h.
 
 **Emojis:** Mais frequentes e mais expressivos (🚀 ⚡ 💪 🙌).
 
-**Linguagem:** Jargão de marketing natural , "captação", "carrinho", "conversão", "funil", "métricas". O avatar é infoprodutor/estrategista, fala assim.
+**Linguagem:** Jargêo de marketing natural , "captaçêo", "carrinho", "conversêo", "funil", "métricas". O avatar é infoprodutor/estrategista, fala assim.
 
-**Antecipação:** Mais agressiva na curiosidade. "Você sabia que o modelo certo impacta diretamente a conversão no carrinho?" , toca no desejo de resultado.
+**Antecipaçêo:** Mais agressiva na curiosidade. "Você sabia que o modelo certo impacta diretamente a conversêo no carrinho?" , toca no desejo de resultado.
 
 **Pesquisa:** Focada em "momento do negócio" (já lança, nunca lançou, está perdido com modelo).
 
-**Ficha de interesse:** "Acelerador LPSG" , produto posicionado como acelerador, não como curso.
+**Ficha de interesse:** "Acelerador LPSG" , produto posicionado como acelerador, nêo como curso.
 
 ---
 
 ## O Que Faz Esse Exemplo Funcionar
 
-- Nomes das aulas são práticos e progressivos (aprende → escolhe → faz → otimiza → automatiza)
-- Linguagem é de estrategista pra estrategista , não dumba down
+- Nomes das aulas sêo práticos e progressivos (aprende → escolhe → faz → otimiza → automatiza)
+- Linguagem é de estrategista pra estrategista , nêo dumba down
 - Antecipações usam perguntas retóricas ("Você sabia que...?")
-- Tom consistente , Leo é energético mas não grita. É intensidade controlada.
-- A Aula 3 é posicionada como "A MAIS PRÁTICA" , cria expectativa de implementação
-- Emojis são identidade, não decoração
+- Tom consistente , Leo é energético mas nêo grita. É intensidade controlada.
+- A Aula 3 é posicionada como "A MAIS PRÁTICA" , cria expectativa de implementaçêo
+- Emojis sêo identidade, nêo decoraçêo

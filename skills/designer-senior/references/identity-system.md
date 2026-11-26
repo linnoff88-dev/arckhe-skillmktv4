@@ -2,33 +2,33 @@
 
 ## Estilos Visuais × Produtos
 
-Use esta tabela para selecionar o estilo visual com base no tipo de produto e tom desejado. O estilo não é preferência — é decisão estratégica baseada no público e contexto.
+Use esta tabela para selecionar o estilo visual com base no tipo de produto e tom desejado. O estilo nêo é preferência — é decisêo estratégica baseada no público e contexto.
 
 ### Estilos Primários
 
-| Estilo | Descrição | Melhor Para | Evitar Para |
+| Estilo | Descriçêo | Melhor Para | Evitar Para |
 |--------|-----------|-------------|-------------|
 | **Minimalism** | Espaço generoso, poucos elementos, tipografia forte, paleta restrita | SaaS, portfólio premium, fintech, tech | Produtos infantis, entretenimento, e-commerce de massa |
-| **Dark Luxury** | Fundos escuros, acentos dourados/metálicos, tipografia elegante | Moda, joalheria, carros, whisky, crypto premium | Saúde, educação infantil, ONGs |
+| **Dark Luxury** | Fundos escuros, acentos dourados/metálicos, tipografia elegante | Moda, joalheria, carros, whisky, crypto premium | Saúde, educaçêo infantil, ONGs |
 | **Glassmorphism** | Transparências frosted-glass, blur, bordas sutis, profundidade em camadas | Dashboards, apps mobile, fintech, music apps | Mercado conservador, público 50+, institucional |
 | **Brutalism** | Tipografia bold, contrastes extremos, layouts assimétricos, sem polimento | Agências criativas, startups disruptivas, arte, moda vanguarda | Hospitais, bancos tradicionais, governo |
 | **Editorial** | Layout de revista, tipografia serif, grid assimétrico, espaço respirável | Blogs premium, mídia, portfólios, publicações | Dashboards, e-commerce, ferramentas técnicas |
-| **Neumorphism** | Soft shadows, extrusão sutil, monocromático com profundidade | Configurações, controles, calculadoras, players | Pages com muita informação, e-commerce, blogs |
-| **Claymorphism** | 3D suave, sombras coloridas, bordas arredondadas generosas | Fintech friendly, saúde digital, educação, SaaS B2C | Luxo, mercado corporativo, financeiro conservador |
-| **Bento Grid** | Grid modular tipo Apple, cards de tamanhos variados, clean | Apresentação de features, SaaS, portfólio de produtos, dashboards | Páginas de vendas longas, conteúdo narrativo |
+| **Neumorphism** | Soft shadows, extrusêo sutil, monocromático com profundidade | Configurações, controles, calculadoras, players | Pages com muita informaçêo, e-commerce, blogs |
+| **Claymorphism** | 3D suave, sombras coloridas, bordas arredondadas generosas | Fintech friendly, saúde digital, educaçêo, SaaS B2C | Luxo, mercado corporativo, financeiro conservador |
+| **Bento Grid** | Grid modular tipo Apple, cards de tamanhos variados, clean | Apresentaçêo de features, SaaS, portfólio de produtos, dashboards | Páginas de vendas longas, conteúdo narrativo |
 | **Flat Design** | Sem sombras, cores sólidas, ícones simplificados | Apps utilitários, gov-tech, ferramentas internas | Premium, luxo, experiências imersivas |
 | **Skeuomorphism** | Texturas reais, profundidade realista, detalhes visuais ricos | Apps de música, ferramentas criativas, nostalgia | Clean tech, SaaS moderno, minimalismo |
-| **Organic/Nature** | Formas fluidas, paletas terrosas, texturas naturais | Wellness, cosmética natural, alimentação, yoga | Tech hardcore, fintech, gaming |
-| **Neon/Cyberpunk** | Fundos escuros, cores neon vibrantes, glow effects, futurista | Gaming, nightlife, crypto, tech experimental | Saúde, educação, mercado infantil, terceira idade |
+| **Organic/Nature** | Formas fluidas, paletas terrosas, texturas naturais | Wellness, cosmética natural, alimentaçêo, yoga | Tech hardcore, fintech, gaming |
+| **Neon/Cyberpunk** | Fundos escuros, cores neon vibrantes, glow effects, futurista | Gaming, nightlife, crypto, tech experimental | Saúde, educaçêo, mercado infantil, terceira idade |
 | **Retro/Vintage** | Paletas nostálgicas, texturas grain, tipografia retrô | Café, cervejaria artesanal, moda vintage, barbershop | SaaS, fintech, hospital, tech |
 | **Corporate Modern** | Limpo mas com personalidade, gradientes sutis, profissional | B2B SaaS, consultoria, serviços profissionais | Entretenimento, moda jovem, arte |
-| **Playful/Fun** | Cores vibrantes, formas orgânicas, ilustrações, motion abundante | Educação, apps infantis, gaming casual, food delivery | Finanças, jurídico, saúde |
+| **Playful/Fun** | Cores vibrantes, formas orgânicas, ilustrações, motion abundante | Educaçêo, apps infantis, gaming casual, food delivery | Finanças, jurídico, saúde |
 
 ### Como Escolher
 
 Cruzamento **Produto × Tom**:
 
-| Tom ↓ / Produto → | SaaS/Tech | E-commerce | Saúde/Wellness | Educação | Finanças | Criativo/Arte |
+| Tom ↓ / Produto → | SaaS/Tech | E-commerce | Saúde/Wellness | Educaçêo | Finanças | Criativo/Arte |
 |--------------------|-----------|------------|----------------|----------|----------|---------------|
 | **Premium** | Minimalism, Corporate Modern | Dark Luxury, Editorial | Organic, Minimalism | Editorial, Minimalism | Dark Luxury, Minimalism | Editorial, Brutalism |
 | **Acessível** | Claymorphism, Flat | Playful, Bento Grid | Organic, Claymorphism | Playful, Claymorphism | Corporate Modern | Playful, Retro |
@@ -64,7 +64,7 @@ Cada paleta define 5 cores semânticas. Use CSS variables.
 
 ### E-commerce / Varejo
 
-**Coral Commerce** (energético, conversão)
+**Coral Commerce** (energético, conversêo)
 ```
 --primary: #F43F5E; --secondary: #FB7185; --accent: #FCD34D;
 --bg: #FFFFFF; --bg-alt: #FFF1F2; --text: #1F2937; --text-muted: #6B7280;
@@ -104,7 +104,7 @@ Cada paleta define 5 cores semânticas. Use CSS variables.
 --bg: #0A0A0F; --bg-alt: #13131A; --text: #FAFAFA; --text-muted: #71717A;
 ```
 
-### Educação
+### Educaçêo
 
 **Campus** (energético, acessível)
 ```
@@ -112,7 +112,7 @@ Cada paleta define 5 cores semânticas. Use CSS variables.
 --bg: #FFFFFF; --bg-alt: #F8FAFC; --text: #1E293B; --text-muted: #64748B;
 ```
 
-### Alimentação / Food
+### Alimentaçêo / Food
 
 **Spice** (apetitoso, quente)
 ```
@@ -190,11 +190,11 @@ Inter, Roboto, Open Sans, Lato, Arial, Helvetica, system-ui genérico
 ### Regras de Pareamento
 
 1. **Contraste alto = interessante**: Display + monospace, serif + geometric sans, variable font com pesos extremos
-2. **Use extremos**: Weight 100-200 vs 700-900 (não 400 vs 600). Tamanhos 3x+ de diferença entre heading e body.
+2. **Use extremos**: Weight 100-200 vs 700-900 (nêo 400 vs 600). Tamanhos 3x+ de diferença entre heading e body.
 3. **Uma fonte marcante**: Escolha UMA fonte display que define a personalidade. A body font serve a display.
-4. **Escala tipográfica**: Use progressão consistente. Recomendado: 12 / 14 / 16 / 20 / 24 / 32 / 40 / 48 / 64 / 80
+4. **Escala tipográfica**: Use progressêo consistente. Recomendado: 12 / 14 / 16 / 20 / 24 / 32 / 40 / 48 / 64 / 80
 5. **Line height**: Body 1.5-1.75, Headings 1.1-1.3, Captions 1.4
-6. **Letter spacing**: Headings grandes podem ter -0.02em a -0.04em. Body mantém padrão. ALL CAPS precisa de +0.05em a +0.1em.
+6. **Letter spacing**: Headings grandes podem ter -0.02em a -0.04em. Body mantém padrêo. ALL CAPS precisa de +0.05em a +0.1em.
 
 ### Google Fonts Import
 
@@ -211,14 +211,14 @@ Sempre carregue via `<link>` com display=swap:
 
 | Estilo Visual | Radius Recomendado | Exemplo |
 |---------------|-------------------|---------|
-| Brutalism | 0px | Arestas vivas, sem suavização |
+| Brutalism | 0px | Arestas vivas, sem suavizaçêo |
 | Editorial | 0-2px | Quase reto, sofisticado |
 | Minimalism | 4-8px | Sutil, limpo |
 | Corporate | 8-12px | Profissional moderno |
 | Glassmorphism | 12-16px | Suave, fluido |
 | Claymorphism | 16-24px | Arredondado, amigável |
 | Playful | 16-24px + pill buttons | Divertido, orgânico |
-| Neumorphism | 12-20px | Soft, extrusão suave |
+| Neumorphism | 12-20px | Soft, extrusêo suave |
 
 ---
 
@@ -265,17 +265,17 @@ Sempre carregue via `<link>` com display=swap:
 
 ---
 
-## Dark Mode — Regras de Adaptação
+## Dark Mode — Regras de Adaptaçêo
 
 Quando dark mode é definido na identidade:
 
-1. **Não inverta cores** — crie variantes tonais desaturadas e mais claras
+1. **Nêo inverta cores** — crie variantes tonais desaturadas e mais claras
 2. **Fundo**: Use cinzas muito escuros com leve tom da primary (ex: se primary é azul, bg pode ter um toque de azul escuro)
 3. **Texto**: Off-white (#E2E8F0 a #F8FAFC), nunca #FFFFFF puro (causa fadiga)
 4. **Superfícies elevadas**: Cards/modais MAIS claros que o fundo (oposto do light mode)
 5. **Acentos**: Ligeiramente mais claros/desaturados vs light mode para manter contraste
 6. **Bordas**: Mais visíveis (rgba branco ao invés de rgba preto)
-7. **Teste contraste separadamente** — não assuma que o que funciona em light funciona em dark
+7. **Teste contraste separadamente** — nêo assuma que o que funciona em light funciona em dark
 
 ```css
 [data-theme="dark"], .dark {

@@ -1,12 +1,12 @@
 # Onboarding , Fluxo de Entrada
 
-O onboarding acontece ANTES do evento começar. É a primeira impressão. O lead precisa: confirmar recebimento, entrar no grupo, responder pesquisa.
+O onboarding acontece ANTES do evento começar. É a primeira impressêo. O lead precisa: confirmar recebimento, entrar no grupo, responder pesquisa.
 
 ---
 
 ## API , Sequência de Boas-Vindas (ManyChat)
 
-### Mensagem 1 , Boas-vindas + Confirmação
+### Mensagem 1 , Boas-vindas + Confirmaçêo
 
 Bem-vindo ao **[NOME DO EVENTO]**! Bom demais ter você aqui. [EMOJI]
 
@@ -15,17 +15,17 @@ O evento começa no dia [DATA] às [HORA].
 🚨 **IMPORTANTE**: 🚨
 Para receber os links das aulas ao vivo e avisos do evento, você **PRECISA** confirmar o recebimento desta mensagem agora!
 
-Sem essa confirmação, você não receberá os links, materiais e próximos passos!
+Sem essa confirmaçêo, você nêo receberá os links, materiais e próximos passos!
 
-👇 Aperte no botão abaixo para confirmar e liberar seu acesso:
+👇 Aperte no botêo abaixo para confirmar e liberar seu acesso:
 
-Digite "SAIR" se não quiser receber avisos por aqui.
+Digite "SAIR" se nêo quiser receber avisos por aqui.
 
-BOTÃO: CONFIRMAR E ACESSAR
+BOTêO: CONFIRMAR E ACESSAR
 
-### Mensagem 2 , Grupo (após confirmação)
+### Mensagem 2 , Grupo (após confirmaçêo)
 
-Confirmação recebida! ✅
+Confirmaçêo recebida! ✅
 
 Agora o passo **MAIS IMPORTANTE:**
 
@@ -39,7 +39,7 @@ O grupo é fechado e organizado – só eu e minha equipe enviamos mensagens. Se
 
 Entre no grupo aqui 👇
 
-BOTÃO: ENTRAR NO GRUPO
+BOTêO: ENTRAR NO GRUPO
 [LINK-GRUPO]
 
 {APÓS 5 SEGUNDOS}
@@ -55,9 +55,9 @@ Responde essa pesquisa rápida pra eu entender melhor seu momento e adaptar melh
 
 [LINK-PESQUISA]
 
-BOTÃO: JÁ RESPONDI
+BOTêO: JÁ RESPONDI
 
-### Mensagem 4 , Confirmação pesquisa
+### Mensagem 4 , Confirmaçêo pesquisa
 
 Bom demais!! 🙌
 
@@ -69,7 +69,7 @@ Até lá! 💪
 
 ---
 
-## E-mail de Confirmação
+## E-mail de Confirmaçêo
 
 Assunto: Seu acesso ao evento [NOME] está liberado
 
@@ -90,11 +90,11 @@ Nos vemos em breve.
 
 ---
 
-## Descrição do Grupo (Capa + Info)
+## Descriçêo do Grupo (Capa + Info)
 
 NOME: [NOME DO EVENTO] [EMOJI] Inicia [DATA], [DIA], às [HORA]
 
-DESCRIÇÃO:
+DESCRIÇêO:
 Bem-vindo(a) ao **[NOME DO EVENTO]**!
 
 Preparado pra [PROMESSA CENTRAL DO EVENTO]?
@@ -106,17 +106,17 @@ Eu vou fazer [X] aulas onde você vai descobrir:
 [Bullet aula 4 , o que resolve]
 [Bullet aula 5 , o que resolve]
 
-🔗 **Link das aulas + materiais serão TODOS enviados aqui**
+🔗 **Link das aulas + materiais serêo TODOS enviados aqui**
 
-Fique de olho porque [diferencial prático , exercícios, implementação, etc.].
+Fique de olho porque [diferencial prático , exercícios, implementaçêo, etc.].
 
 Nos vemos em breve! [EMOJI]
 
 ---
 
-## Notas de Adaptação
+## Notas de Adaptaçêo
 
 - O nome do grupo usa o emoji do projeto como identidade visual fixa
 - A pesquisa serve pra adaptar exemplos nas aulas (o expert menciona isso)
-- A confirmação por API é obrigatória , sem ela, o lead não recebe os links
-- O tom do onboarding deve ser energético e simples , primeira impressão
+- A confirmaçêo por API é obrigatória , sem ela, o lead nêo recebe os links
+- O tom do onboarding deve ser energético e simples , primeira impressêo

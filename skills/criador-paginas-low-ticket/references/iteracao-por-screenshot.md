@@ -1,6 +1,6 @@
-# Iteração por Screenshot (Passo 8 — Otimização)
+# Iteraçêo por Screenshot (Passo 8 — Otimizaçêo)
 
-Sistema de iteração quando a página já existe e precisa melhorar.
+Sistema de iteraçêo quando a página já existe e precisa melhorar.
 
 ---
 
@@ -11,7 +11,7 @@ Sistema de iteração quando a página já existe e precisa melhorar.
 3. Declarar diagnóstico antes de gerar:
 
 ```
-DIAGNÓSTICO: Consciência [n] × Sofisticação [n]
+DIAGNÓSTICO: Consciência [n] × Sofisticaçêo [n]
 ELEMENTO MAIS FRACO: [nome]
 POR QUÊ: [máximo 2 linhas — específico]
 HIPÓTESE: [mudança proposta → resultado esperado]
@@ -19,15 +19,15 @@ HIPÓTESE: [mudança proposta → resultado esperado]
 
 ---
 
-## Geração de Headlines
+## Geraçêo de Headlines
 
-Gerar sempre 7 variações (padrão). Distribuir obrigatoriamente entre ângulos diferentes — não repetir mesmo ângulo.
+Gerar sempre 7 variações (padrêo). Distribuir obrigatoriamente entre ângulos diferentes — nêo repetir mesmo ângulo.
 
 | Ângulo | Quando usar |
 |--------|-------------|
 | Medo de perda | qualquer nível |
-| Contrarian | sofisticação 3-4 |
-| Inversão de culpa | sofisticação 3+ |
+| Contrarian | sofisticaçêo 3-4 |
+| Inversêo de culpa | sofisticaçêo 3+ |
 | Mecanismo novo | consciência 3-4 |
 | Especificidade numérica | qualquer |
 | Pergunta retórica | consciência 2-3 |
@@ -48,10 +48,10 @@ H1 [Ângulo: Medo de perda]
 
 Formato obrigatório:
 ```
-VERSÃO ATUAL:
+VERSêO ATUAL:
 [texto original]
 
-VERSÃO [n] — [ângulo]:
+VERSêO [n] — [ângulo]:
 [nova copy]
 
 MUDANÇA: [o que exatamente foi alterado — 1 linha]
@@ -59,24 +59,24 @@ HIPÓTESE: [o que deve melhorar e por quê — 1 linha]
 ```
 
 Regras:
-- Mudar UM elemento por iteração
-- Se dobra exige inversão de culpa (sofisticação 3+) e não tem → adicionar
+- Mudar UM elemento por iteraçêo
+- Se dobra exige inversêo de culpa (sofisticaçêo 3+) e nêo tem → adicionar
 - Trocar linguagem de marketer pela linguagem do avatar
 - Substituir número redondo por número quebrado onde houver dado
 
 ---
 
-## Log de Versão
+## Log de Versêo
 
-Ao final de cada sessão:
+Ao final de cada sessêo:
 ```
 ────────────────────────────
 LOG v[número] — [data]
-Diagnóstico: Consciência [n] × Sofisticação [n]
+Diagnóstico: Consciência [n] × Sofisticaçêo [n]
 Elemento testado: [nome]
 Hipótese: [o que se esperava]
 Mudanças:
-  - [dobra/elemento]: [descrição curta]
+  - [dobra/elemento]: [descriçêo curta]
 Status: em teste
 Resultado: (preencher quando trouxer dados)
 ────────────────────────────
@@ -84,15 +84,15 @@ Resultado: (preencher quando trouxer dados)
 
 ---
 
-## Comparação com Padrões
+## Comparaçêo com Padrões
 
 Ao diagnosticar, cruzar com `references/padroes-universais.md`:
 
 - A promessa é sobre a pessoa ou sobre o evento?
-- A dobra 2 é identificação/prova ou é expert?
+- A dobra 2 é identificaçêo/prova ou é expert?
 - A transferência de culpa é proporcional à vergonha do mercado?
 - O expert aparece antes ou depois do preço?
-- O preço está enquadrado por comparação?
+- O preço está enquadrado por comparaçêo?
 - A linguagem é do avatar ou do marketeiro?
 
 Cada divergência dos padrões é candidata a hipótese de melhoria.
